@@ -1,0 +1,759 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta content="width=device-width, initial-scale=1.0" name="viewport">
+		<title>Dashboard - Fuego</title>
+		<meta content="" name="description">
+		<meta content="" name="keywords">
+		<!-- Favicons -->
+		<link href="assets/img/favicon.png" rel="icon">
+		<link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+		<!-- Google Fonts -->
+		<link href="https://fonts.gstatic.com" rel="preconnect">
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Nunito:300,300i,400,400i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+		<!-- Vendor CSS Files -->
+		<link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+		<link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+		<link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+		<link href="assets/vendor/quill/quill.snow.css" rel="stylesheet">
+		<link href="assets/vendor/quill/quill.bubble.css" rel="stylesheet">
+		<link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+		<link href="assets/vendor/simple-datatables/style.css" rel="stylesheet">
+		<!-- Template Main CSS File -->
+		<link href="assets/css/style.css" rel="stylesheet">
+		<!-- =======================================================
+			* Template Name: NiceAdmin - v2.3.1
+			* Template URL: https://bootstrapmade.com/nice-admin-bootstrap-admin-html-template/
+			* Author: BootstrapMade.com
+			* License: https://bootstrapmade.com/license/
+			======================================================== -->
+	</head>
+	<body>
+		<!-- ======= Header ======= -->
+		<header id="header" class="header fixed-top d-flex align-items-center">
+			<div class="d-flex align-items-center justify-content-between">
+				<a href="index.html" class="logo d-flex align-items-center">
+				<img src="assets/img/logo.png" alt="">
+				<span class="d-none d-lg-block">Fuego</span>
+				</a>
+				<i class="bi bi-list toggle-sidebar-btn"></i>
+			</div>
+			<!-- End Logo -->
+			<div class="search-bar">
+				<form class="search-form d-flex align-items-center" method="POST" action="#">
+					<input type="text" name="query" placeholder="Search" title="Enter search keyword">
+					<button type="submit" title="Search"><i class="bi bi-search"></i></button>
+				</form>
+			</div>
+			<!-- End Search Bar -->
+			<nav class="header-nav ms-auto">
+				<ul class="d-flex align-items-center">
+					<li class="nav-item d-block d-lg-none">
+						<a class="nav-link nav-icon search-bar-toggle " href="#">
+						<i class="bi bi-search"></i>
+						</a>
+					</li>
+					<!-- End Search Icon-->
+					<li class="nav-item dropdown pe-3">
+						<a class="nav-link nav-profile d-flex align-items-center pe-0" href="#" data-bs-toggle="dropdown">
+						<img src="assets/img/profile-img.jpg" alt="Profile" class="rounded-circle">
+						<span class="d-none d-md-block dropdown-toggle ps-2">K. Anderson</span>
+						</a><!-- End Profile Iamge Icon -->
+						<ul class="dropdown-menu dropdown-menu-end dropdown-menu-arrow profile">
+							<li class="dropdown-header">
+								<h6>Kevin Anderson</h6>
+							</li>
+							<li>
+								<hr class="dropdown-divider">
+							</li>
+							<li>
+								<a class="dropdown-item d-flex align-items-center" href="users-profile.html">
+								<i class="bi bi-person"></i>
+								<span>My Profile</span>
+								</a>
+							</li>
+							<li>
+								<hr class="dropdown-divider">
+							</li>
+							<li>
+								<a class="dropdown-item d-flex align-items-center" href="#">
+								<i class="bi bi-box-arrow-right"></i>
+								<span>Sign Out</span>
+								</a>
+							</li>
+						</ul>
+						<!-- End Profile Dropdown Items -->
+					</li>
+					<!-- End Profile Nav -->
+				</ul>
+			</nav>
+			<!-- End Icons Navigation -->
+		</header>
+		<!-- End Header -->
+		<!-- ======= Sidebar ======= -->
+		<aside id="sidebar" class="sidebar">
+			<ul class="sidebar-nav" id="sidebar-nav">
+				<li class="nav-item">
+					<a class="nav-link " href="index.html">
+					<i class="bi bi-grid"></i>
+					<span>Dashboard</span>
+					</a>
+				</li>
+				<!-- End Dashboard Nav -->
+				<li class="nav-heading">Pages</li>
+				<li class="nav-item">
+					<a class="nav-link collapsed" href="users-profile.html">
+					<i class="bi bi-person"></i>
+					<span>Profile</span>
+					</a>
+				</li>
+				<!-- End Profile Page Nav -->
+				<li class="nav-item">
+					<a class="nav-link collapsed" href="pages-register.html">
+					<i class="bi bi-card-list"></i>
+					<span>Register</span>
+					</a>
+				</li>
+				<!-- End Register Page Nav -->
+				<li class="nav-item">
+					<a class="nav-link collapsed" href="pages-login.html">
+					<i class="bi bi-box-arrow-in-right"></i>
+					<span>Login</span>
+					</a>
+				</li>
+				<!-- End Login Page Nav -->
+				<li class="nav-item">
+					<a class="nav-link collapsed" href="pages-blank.html">
+					<i class="bi bi-file-earmark"></i>
+					<span> Child Report</span>
+					</a>
+				</li>
+				<!-- End Report Page Nav -->
+				<li class="nav-item">
+					<a class="nav-link collapsed" href="pages-contact.html">
+					<i class="bi bi-envelope"></i>
+					<span>Contact</span>
+					</a>
+				</li>
+				<!-- End Contact Page Nav -->
+				<li class="nav-item">
+					<a class="nav-link collapsed" href="pages-faq.html">
+		
+						<i class="bi bi-question-circle"></i>
+					<span>Help</span>
+					</a>
+				</li>
+				<!-- End Help Page Nav -->
+			</ul>
+		</aside>
+		<!-- Main-->
+		
+		<main id="main" class="main">
+
+			<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+
+ 			<section class="section register min-vh-100 d-flex flex-column align-items-center justify-content-center py-4">
+				<div class="container">
+				  <div class="row justify-content-center">
+					<div class="col-lg-12 col-md-12 d-flex flex-column align-items-center justify-content-center">
+					<div class="col-lg-9">
+						<div class="card">
+							<div class="card-body">
+								<ul class="nav nav-tabs" id="myTab" role="tablist">
+
+									<li role="presentation" class="nav-item">
+										<a href="#step1" class="nav-link active" data-toggle="tab" aria-controls="step1" role="tab" title="Step 1">1</a>
+									</li>				
+									<li role="presentation" class="nav-item">
+										<a href="#step2" class="nav-link" data-toggle="tab" aria-controls="step2" role="tab" title="Step 2">2</a>
+									</li>
+									<li role="presentation" class="nav-item">
+										<a href="#step3" class="nav-link" data-toggle="tab" aria-controls="step3" role="tab" title="Step 3">3</a>
+									</li>
+									<li role="presentation" class="nav-item">
+										<a href="#step4" class="nav-link" data-toggle="tab" aria-controls="step4" role="tab" title="Step 4">4</a>
+									</li>
+									<li role="presentation" class="nav-item">
+										<a href="#step5" class="nav-link" data-toggle="tab" aria-controls="step5" role="tab" title="Step 5">5</a>
+									</li>
+									<li role="presentation" class="nav-item">
+										<a href="#step6" class="nav-link" data-toggle="tab" aria-controls="step6" role="tab" title="Step 6">6</a>
+									</li>
+									<li role="presentation" class="nav-item">
+										<a href="#step7" class="nav-link" data-toggle="tab" aria-controls="step7" role="tab" title="Step 7">7</a>
+									</li>
+									<li role="presentation" class="nav-item">
+										<a href="#step8" class="nav-link" data-toggle="tab" aria-controls="step8" role="tab" title="Step 8">8</a>
+									</li>
+									<li role="presentation" class="nav-item">
+										<a href="#step9" class="nav-link" data-toggle="tab" aria-controls="step9" role="tab" title="Step 9">9</a>
+									</li>
+									<li role="presentation" class="nav-item">
+										<a href="#step10" class="nav-link" data-toggle="tab" aria-controls="step10" role="tab" title="Step 10">10</a>
+									</li>
+									<li role="presentation" class="nav-item">
+										<a href="#step11" class="nav-link" data-toggle="tab" aria-controls="step11" role="tab" title="Step 11">11</a>
+									</li>
+									<li role="presentation" class="nav-item">
+										<a href="#step12" class="nav-link" data-toggle="tab" aria-controls="step12" role="tab" title="Step 12">12</a>
+									</li>
+									<li role="presentation" class="nav-item">
+										<a href="#step13" class="nav-link" data-toggle="tab" aria-controls="step13" role="tab" title="Step 13">13</a>
+									</li>
+									<li role="presentation" class="nav-item">
+										<a href="#step14" class="nav-link" data-toggle="tab" aria-controls="step14" role="tab" title="Step 14">14</a>
+									</li>
+									<li role="presentation" class="nav-item">
+										<a href="#step15" class="nav-link" data-toggle="tab" aria-controls="step15" role="tab" title="Step 15">15</a>
+									</li>							
+					
+									<li role="presentation" class="nav-item">
+										<a href="#complete" class="nav-link" data-toggle="tab" aria-controls="complete" role="tab" title="Complete"> 
+
+										</a>
+									</li>
+								</ul>	
+								<h3 class="card-title text-center pb-0 fs-4">Screening Test</h3>								
+										<div class="total_que">
+										</div>							
+            <form role="form">
+                <div class="tab-content">
+                    <div class="tab-pane active" role="tabpanel" id="step1">
+                        				<span><p></p></span>
+										<p class="text-center large">1. Stutters while speaking?</p>
+											<div class="row mb-6">
+									<div class="col-md-12">
+										<div class="text-center">
+											<div class="radio">
+												<label for="radios-0">
+												<input name="radios" value="1" type="radio" id="o1">
+												Yes
+												</label>
+											</div>
+										</div>
+										<div class="text-center">
+											<div class="radio">
+												<label for="radios-1">
+												<input name="radios" value="2" type="radio" id="o2">
+												No
+												</label>
+											</div>
+										</div>
+										</div>
+									</div>							
+									<div align="right">
+                        				<button type="button" class="btn btn-primary next-step" id="n-btn1">Next</button>
+									</div>
+                    </div>
+
+                    <div class="tab-pane" role="tabpanel" id="step2">
+                        <p class="text-center large">2. Mispronounces word while speaking?</p>
+											<div class="row mb-6">
+									<div class="col-md-12">
+										<div class="text-center">
+											<div class="radio">
+												<label for="radios-0">
+												<input name="radios" value="1" type="radio" id="o1">
+												Yes
+												</label>
+											</div>
+										</div>
+										<div class="text-center">
+										<div class="radio">
+											<label for="radios-1">
+											<input name="radios" value="2" type="radio" id="o2">
+											No
+											</label>
+										</div>
+										</div>
+									</div>
+									</div>	
+							
+									<div align="left">
+										<button type="button" class="btn btn-primary prev-step" id="p-btn2">Previous</button>
+									</div>
+									<div align="right">
+										<button type="button" class="btn btn-primary next-step" id="n-btn2">Next</button>
+									</div>
+										
+                    </div>
+					
+                    <div class="tab-pane" role="tabpanel" id="step3">                     
+                        <p class="text-center large">3. Gets confused in naming objects? (Eg. Table for chair)</p>
+											<div class="row mb-6">
+									<div class="col-md-12">
+										<div class="text-center">
+											<div class="radio">
+												<label for="radios-0">
+												<input name="radios" value="1" type="radio" id="o1">
+												Yes
+												</label>
+											</div>
+										</div>
+										<div class="text-center">
+										<div class="radio">
+											<label for="radios-1">
+											<input name="radios" value="2" type="radio" id="o2">
+											No
+											</label>
+										</div>
+										</div>
+										</div>
+									</div>
+
+									<div align="left">
+										<button type="button" class="btn btn-primary prev-step" id="p-btn3">Previous</button>
+									</div>
+									<div align="right">
+										<button type="button" class="btn btn-primary next-step" id="n-btn3">Next</button>
+									</div>
+                    </div>
+
+					<div class="tab-pane" role="tabpanel" id="step4">
+                      
+                        <p class="text-center large">4. Asks for repetition again and again when listening to others?</p>
+											<div class="row mb-6">
+									<div class="col-md-12">
+										<div class="text-center">
+											<div class="radio">
+												<label for="radios-0">
+												<input name="radios" value="1" type="radio" id="o1">
+												Yes
+												</label>
+											</div>
+										</div>
+										<div class="text-center">
+										<div class="radio">
+											<label for="radios-1">
+											<input name="radios" value="2" type="radio" id="o2">
+											No
+											</label>
+										</div>
+										</div>
+										</div>
+									</div>			
+
+									<div align="left">
+										<button type="button" class="btn btn-primary prev-step" id="p-btn4">Previous</button>
+									</div>
+									<div align="right">
+											<button type="button" class="btn btn-primary next-step" id="n-btn4">Next</button>
+									</div>
+                    </div>
+
+					<div class="tab-pane" role="tabpanel" id="step5">
+                        
+                        <p class="text-center large">5. Gets confused when many instructions are given at once?</p>
+											<div class="row mb-6">
+									<div class="col-md-12">
+										<div class="text-center">
+											<div class="radio">
+												<label for="radios-0">
+												<input name="radios" value="1" type="radio" id="o1">
+												Yes
+												</label>
+											</div>
+										</div>
+										<div class="text-center">
+										<div class="radio">
+											<label for="radios-1">
+											<input name="radios" value="2" type="radio" id="o2">
+											No
+											</label>
+										</div>
+										</div>
+										</div>
+									</div>			
+
+									<div align="left">
+										<button type="button" class="btn btn-primary prev-step" id="p-btn5">Previous</button>
+									</div>
+									<div align="right">
+										<button type="button" class="btn btn-primary next-step" id="n-btn5">Next</button>
+									</div>
+                    </div>
+
+					<div class="tab-pane" role="tabpanel" id="step6">
+                   
+                        <p class="text-center large">6. Has difficulty in listening to what I say in crowded places?</p>
+											<div class="row mb-6">
+									<div class="col-md-12">
+										<div class="text-center">
+											<div class="radio">
+												<label for="radios-0">
+												<input name="radios" value="1" type="radio" id="o1">
+												Yes
+												</label>
+											</div>
+										</div>
+										<div class="text-center">
+										<div class="radio">
+											<label for="radios-1">
+											<input name="radios" value="2" type="radio" id="o2">
+											No
+											</label>
+										</div>
+										</div>
+										</div>
+									</div>			
+									<div align="left">
+										<button type="button" class="btn btn-primary prev-step" id="p-btn6">Previous</button>
+									</div>
+									<div align="right">
+											<button type="button" class="btn btn-primary next-step" id="n-btn6">Next</button>
+									</div>
+                    </div>
+
+					<div class="tab-pane" role="tabpanel" id="step7">
+                        
+                        <p class="text-center large">7. Has difficulty reading?</p>
+											<div class="row mb-6">
+									<div class="col-md-12">
+										<div class="text-center">
+											<div class="radio">
+												<label for="radios-0">
+												<input name="radios" value="1" type="radio" id="o1">
+												Yes
+												</label>
+											</div>
+										</div>
+										<div class="text-center">
+										<div class="radio">
+											<label for="radios-1">
+											<input name="radios" value="2" type="radio" id="o2">
+											No
+											</label>
+										</div>
+										</div>
+										</div>
+									</div>			
+
+									<div align="left">
+										<button type="button" class="btn btn-primary prev-step" id="p-btn7">Previous</button>
+									</div>
+									<div align="right">
+										<button type="button" class="btn btn-primary next-step" id="n-btn7">Next</button>
+									</div>
+                    </div>
+
+					<div class="tab-pane" role="tabpanel" id="step8">
+                      
+                        <p class="text-center large">8. Has difficulty in understanding what other people say?</p>
+											<div class="row mb-6">
+									<div class="col-md-12">
+										<div class="text-center">
+											<div class="radio">
+												<label for="radios-0">
+												<input name="radios" value="1" type="radio" id="o1">
+												Yes
+												</label>
+											</div>
+										</div>
+										<div class="text-center">
+										<div class="radio">
+											<label for="radios-1">
+											<input name="radios" value="2" type="radio" id="o2">
+											No
+											</label>
+										</div>
+										</div>
+										</div>
+									</div>			
+
+									<div align="left">
+										<button type="button" class="btn btn-primary prev-step" id="p-btn8">Previous</button>
+									</div>
+									<div align="right">
+										<button type="button" class="btn btn-primary next-step" id="n-btn8">Next</button>
+									</div>
+                    </div>
+
+					<div class="tab-pane" role="tabpanel" id="step9">
+                      
+                        <p class="text-center large">9. Misses lines or words while reading?</p>
+											<div class="row mb-6">
+									<div class="col-md-12">
+										<div class="text-center">
+												<div class="radio">
+													<label for="radios-0">
+													<input name="radios" value="1" type="radio" id="o1">
+													Yes
+													</label>
+												</div>
+											</div>
+											<div class="text-center">
+										<div class="radio">
+											<label for="radios-1">
+											<input name="radios" value="2" type="radio" id="o2">
+											No
+											</label>
+										</div>
+										</div>
+										</div>
+									</div>			
+
+									<div align="left">
+										<button type="button" class="btn btn-primary prev-step" id="p-btn9">Previous</button>
+									</div>
+									<div align="right">
+										<button type="button" class="btn btn-primary next-step" id="n-btn9">Next</button>
+									</div>
+                    </div>
+
+					<div class="tab-pane" role="tabpanel" id="step10">
+                        
+                        <p class="text-center large">10. Has difficulty in reading aloud?</p>
+											<div class="row mb-6">
+									<div class="col-md-12">
+										<div class="text-center">
+											<div class="radio">
+												<label for="radios-0">
+												<input name="radios" value="1" type="radio" id="o1">
+												Yes
+												</label>
+											</div>
+										</div>
+										<div class="text-center">
+										<div class="radio">
+											<label for="radios-1">
+											<input name="radios" value="2" type="radio" id="o2">
+											No
+											</label>
+										</div>
+										</div>
+										</div>	
+									</div>			
+
+									<div align="left">
+										<button type="button" class="btn btn-primary prev-step" id="p-btn10">Previous</button>
+									</div>
+									<div align="right">
+											<button type="button" class="btn btn-primary next-step" id="n-btn10">Next</button>
+									</div>
+                    </div>
+
+					<div class="tab-pane" role="tabpanel" id="step11">
+                      
+                        <p class="text-center large">11. Has difficulty writing?</p>
+											<div class="row mb-6">
+									<div class="col-md-12">
+										<div class="text-center">
+											<div class="radio">
+												<label for="radios-0">
+												<input name="radios" value="1" type="radio" id="o1">
+												Yes
+												</label>
+											</div>
+										</div>
+										<div class="text-center">
+										<div class="radio">
+											<label for="radios-1">
+											<input name="radios" value="2" type="radio" id="o2">
+											No
+											</label>
+										</div>
+										</div>
+										</div>
+									</div>			
+
+									<div align="left">
+										<button type="button" class="btn btn-primary prev-step" id="p-btn11">Previous</button>
+									</div>
+									<div align="right">
+										<button type="button" class="btn btn-primary next-step" id="n-btn11">Next</button>
+									</div>
+                    </div>
+
+					<div class="tab-pane" role="tabpanel" id="step12">
+                
+                        <p class="text-center large">12. Holds pen, pencil appropriately?</p>
+											<div class="row mb-6">
+									<div class="col-md-12">
+										<div class="text-center">
+											<div class="radio">
+												<label for="radios-0">
+												<input name="radios" value="1" type="radio" id="o1">
+												Yes
+												</label>
+											</div>
+										</div>
+										<div class="text-center">
+										<div class="radio">
+											<label for="radios-1">
+											<input name="radios" value="2" type="radio" id="o2">
+											No
+											</label>
+										</div>
+										</div>
+									    </div>
+									</div>			
+
+									<div align="left">
+										<button type="button" class="btn btn-primary prev-step" id="p-btn12">Previous</button>
+									</div>
+									<div align="right">
+										<button type="button" class="btn btn-primary next-step" id="n-btn12">Next</button>
+									</div>
+                    </div>
+
+					<div class="tab-pane" role="tabpanel" id="step13">
+                
+                        <p class="text-center large">13. Has errors in number identification?  (Eg. 3 as 9)</p>
+											<div class="row mb-6">
+									<div class="col-md-12">
+										<div class="text-center">
+											<div class="radio">
+												<label for="radios-0">
+												<input name="radios" value="1" type="radio" id="o1">
+												Yes
+												</label>
+											</div>
+										</div>
+										<div class="text-center">
+										<div class="radio">
+											<label for="radios-1">
+											<input name="radios" value="2" type="radio" id="o2">
+											No
+											</label>
+										</div>
+										</div>
+									    </div>
+									</div>			
+
+									<div align="left">
+										<button type="button" class="btn btn-primary prev-step" id="p-btn13">Previous</button>
+									</div>
+									<div align="right">
+										<button type="button" class="btn btn-primary next-step" id="n-btn13">Next</button>
+									</div>
+                    </div>
+
+					<div class="tab-pane" role="tabpanel" id="step14">
+                    
+                        <p class="text-center large">14. Does not maintain left to right orientation?</p>
+											<div class="row mb-6">
+									<div class="col-md-12">
+										<div class="text-center">
+											<div class="radio">
+												<label for="radios-0">
+												<input name="radios" value="1" type="radio" id="o1">
+												Yes
+												</label>
+											</div>
+										</div>
+										<div class="text-center">
+										<div class="radio">
+											<label for="radios-1">
+											<input name="radios" value="2" type="radio" id="o2">
+											No
+											</label>
+										</div>
+									    </div>
+										</div>
+									</div>			
+									<div align="left">
+										<button type="button" class="btn btn-primary prev-step" id="p-btn14">Previous</button>
+									</div>
+									<div align="right">
+										<button type="button" class="btn btn-primary next-step" id="n-btn14">Next</button>
+									</div>
+                    </div>
+
+					<div class="tab-pane" role="tabpanel" id="step15">
+                
+                        <p class="text-center large">15. Has difficulty in finger counting?</p>
+											<div class="row mb-6">
+									<div class="col-md-12">
+										<div class="text-center">
+											<div class="radio">
+												<label for="radios-0">
+												<input name="radios" value="1" type="radio" id="o1">
+												Yes
+												</label>
+											</div>
+										</div>
+										<div class="text-center">
+										<div class="radio">
+											<label for="radios-1">
+											<input name="radios" value="2" type="radio" id="o2">
+											No
+											</label>
+										</div>
+									    </div>
+										</div>
+									</div>
+						<div align="left">			
+                        	<button type="button" class="btn btn-primary prev-step" id="p-btn15">Previous</button>
+						</div>
+						<div align="right">
+                       		 <button type="button" class="btn btn-primary next-step" id="n-btn15">Submit</button>
+						 </div>
+                    </div>
+
+                </div>
+            </form>
+          </section>
+       </div>
+   </div>
+
+
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+							
+    </main>
+		
+		<!-- End #main -->
+		<!-- ======= Footer ======= -->
+		<footer id="footer" class="footer">
+			<div class="copyright">
+				&copy; Copyright <strong><span>Fuego</span></strong>. All Rights Reserved
+			</div>
+			<div class="credits">
+				<!-- All the links in the footer should remain intact. -->
+				<!-- You can delete the links only if you purchased the pro version. -->
+				<!-- Licensing information: https://bootstrapmade.com/license/ -->
+				<!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/nice-admin-bootstrap-admin-html-template/ -->
+				Designed by <a href="https://bootstrapmade.com/">TechFuego</a>
+			</div>
+		</footer>
+		<!-- End Footer -->
+		<a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+		<!-- Vendor JS Files -->
+		<script src="assets/vendor/apexcharts/apexcharts.min.js"></script>
+		<script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+		<script src="assets/vendor/chart.js/chart.min.js"></script>
+		<script src="assets/vendor/echarts/echarts.min.js"></script>
+		<script src="assets/vendor/quill/quill.min.js"></script>
+		<script src="assets/vendor/simple-datatables/simple-datatables.js"></script>
+		<script src="assets/vendor/tinymce/tinymce.min.js"></script>
+		<script src="assets/vendor/php-email-form/validate.js"></script>
+		
+		<script src="assets/js/main.js"></script>
+
+		<script>
+		$(document).ready(function () {
+			$("form").submit(function (event) {
+			  var formData = {
+
+			  };
+
+			  $.ajax({
+				type: "POST",
+				url: "",
+				data: formData,
+				dataType: "json",
+				}).success(function (data) {
+				console.log(data);
+				});
+
+			});
+			});
+
+			</script>
+	</body>
+
+</html>

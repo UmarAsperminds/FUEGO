@@ -1,0 +1,32 @@
+{
+	QuestionType:"Reading",
+	Spelling:["U-O-K-L-P",......],
+	Pronounce:[
+		{ Grade:1, dataSet:["WORD1","WORD2"] },
+		{ Grade:2, dataSet:["WORD1","WORD2"] },
+	],
+	Sentence:[
+		{ Grade:1, dataSet:["Sentence"] },
+		{ Grade:2, dataSet:["Sentence"] },
+	],
+	OneToOneImage:[
+		{ Grade:1, dataSet:[
+			{ QuestionImage:"R-1-2-3.png", Answer:"" },
+			{ QuestionImage:"R-1-2-3.png", Answer:"" }
+		] },
+		{ Grade:2, dataSet:[
+			{ QuestionImage:"R-1-2-3.png", Answer:"" },
+			{ QuestionImage:"R-1-2-3.png", Answer:"" }
+		] },
+	],
+	ManyToOneImage:[
+		{ Grade:1, dataSet:[
+			{ QuestionImage:"R-1-2-3.png", Answer:[] },
+			{ QuestionImage:"R-1-2-3.png", Answer:[] }
+		] },
+		{ Grade:2, dataSet:[
+			{ QuestionImage:"R-1-2-3.png", Answer:[] },
+			{ QuestionImage:"R-1-2-3.png", Answer:[] }
+		] },
+	]
+}

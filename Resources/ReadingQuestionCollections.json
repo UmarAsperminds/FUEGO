@@ -1,0 +1,70 @@
+{
+    "_id": "6300ee6be304ed18e74f1c7e",
+    "QuestionSet":
+    {
+        "QuestionType": "Reading",
+        "Spelling":
+        {
+            "QuestionCaption": "Spell the Letters on Screen",
+            "GradewiseDataset": ["X   G   F   T   Z", "T   U   S   M   F", "Y   A   H   Q   V", "R   D   J   W   S", "S   B   K   C   E", "Z   X   B   S   A", "W   G   A   O   J", "U   S   V   N   A", "A   H   I   X   V", "X   I   T   P   S", "A   G   J   O   Z", "S   Z   V   B   W", "A   U   R   L   H", "Q   A   Y   D   K", "I   O   T   A   L", "A   L   T   A   S", "C   N   T   R   L", "M   S   G   R   C", "T   A   U   G   D", "D   U   A   Q   R", "E   T   L   N   S", "C   S   D   E   B", "A   W   Y   Q   X", "C   Z   K   R   B", "M   G   R   L   N", "Y   V   F   U   M", "O   V   H   Q   C", "S   T   V   R   A", "A   V   T   R   Z", "J   K   S   H   A"]
+        },
+        "Pronounce":
+        {
+            "QuestionCaption": "Repeat the words on screen",
+            "GradewiseDataset": [
+            {
+                "Grade": 1,
+                "DataSet": ["Ball", "Hand", "Road", "Key", "Book"]
+            },
+            {
+                "Grade": 2,
+                "DataSet": ["Clock", "Yellow", "Pocket", "Little", "Mouth"]
+            },
+            {
+                "Grade": 3,
+                "DataSet": ["Account", "Thought", "Science", "Particle", "Batteries"]
+            },
+            {
+                "Grade": 4,
+                "DataSet": ["University", "Acceptance", "Dictionary", "Brainwash", "Advantage"]
+            },
+            {
+                "Grade": 5,
+                "DataSet": ["Preservative", "Photography", "Kinematical", "Laboratories", "Information"]
+            },
+            {
+                "Grade": 6,
+                "DataSet": ["Individualism", "Representation", "Sensationalize", "Constitutional", "Environmental"]
+            }]
+        },
+        "Sentence":
+        {
+            "QuestionCaption": "Read the sentence on screen",
+            "GradewiseDataset": [
+            {
+                "Grade": 1,
+                "DataSet": ["Sun rises in the east", "Get up early in the morning", "Brush your teeth two times a day", "Obey your elders", "I love my parents"]
+            },
+            {
+                "Grade": 2,
+                "DataSet": ["Tomato's and Avacado's are actually fruits", "Exercising is very positive for the immune system", "Recycle the waste products", "The bottom number on a fraction is called the denominator", "I borrowed a book from library"]
+            },
+            {
+                "Grade": 3,
+                "DataSet": ["Rainforest plants and trees provide many species,fruits and vegetables", "The president has a very powerful position", "A man at the museum entrance gave us a map", "The chloroplasts store chlorophyll when a plant uses photosynthesis to make food", "Lines of latitude and longitude help us find the absolute location of places"]
+            },
+            {
+                "Grade": 4,
+                "DataSet": ["When surplus supplies are available to sell or barter,the economy improves", "Cytoplasm is a thick fluid within a cell that suspends the organelles", "Camouflage helps animals escape predators in the jungle", "We depend on the many natural resources that are in danger of being destroyed", "The forbidden fruit is always the sweetest"]
+            },
+            {
+                "Grade": 5,
+                "DataSet": ["If the ozone layer collapses,the global community will suffer", "The man with the huge quadriceps could pedal unicycle like an expert", "I wonder if you would be so kind as to avail yourself of this opportunity to respond accordingly to our questionnaire", "As you requested at the commencement of the year, I am forwarding my regular quarterly missive ", "Herewith is an explanation of our rationale for proffering services, pursuant to your request"]
+            },
+            {
+                "Grade": 6,
+                "DataSet": ["As Very Large Scale Integration continues to develop, a proliferation of specialized circuit simulators will be utilized", "On the account of further discussion,we want to state in the affirmative that what transpired was due to the fact that the vehicle had insufficient braking capabilities to avoid the collision", "In as much as we have endeavored to determine the causes of the dilemma without success, we are terminating this  fact-finding  operation immediately", "Though Randolph was cognizant of his  responsibility to advise you of any employment aberrations, he failed to abide by this mandate ", "Avoid obscurity and ambiguity-make your point"]
+            }]
+        }
+    }
+}

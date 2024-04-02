@@ -1,0 +1,261 @@
+{
+    "Category": "Problem Solving",
+    "Type": "Sequence Problem",
+    "GradewiseDataSet": [
+    {
+        "Grade": [1, 2],
+        "DataSet": [
+        {
+            "QuestionCaption": "Sequence the Images in Order",
+            "InputType": "Image",
+            "OutputType": "Order",
+            "Question": ["Q1-1.png", "Q1-2.png", "Q1-3.png"],
+            "Options": [],
+            "Answer": ["Q1-1.png", "Q1-2.png", "Q1-3.png"]
+        },
+        {
+            "QuestionCaption": "Sequence the Images in Order",
+            "InputType": "Image",
+            "OutputType": "Order",
+            "Question": ["Q2-1.png", "Q2-2.png", "Q2-3.png"],
+            "Options": [],
+            "Answer": ["Q2-1.png", "Q2-2.png", "Q2-3.png"]
+        },
+        {
+            "QuestionCaption": "Sequence the Images in Order",
+            "InputType": "Image",
+            "OutputType": "Order",
+            "Question": ["Q3-1.png", "Q3-2.png", "Q3-3.png"],
+            "Options": [],
+            "Answer": ["Q3-1.png", "Q3-2.png", "Q3-3.png"]
+        },
+        {
+            "QuestionCaption": "Sequence the Images in Order",
+            "InputType": "Image",
+            "OutputType": "Order",
+            "Question": ["Q4-1.png", "Q4-2.png", "Q4-3.png"],
+            "Options": [],
+            "Answer": ["Q4-1.png", "Q4-2.png", "Q4-3.png"]
+        },
+        {
+            "QuestionCaption": "Sequence the Images in Order",
+            "InputType": "Image",
+            "OutputType": "Order",
+            "Question": ["Q5-1.png", "Q5-2.png", "Q5-3.png"],
+            "Options": [],
+            "Answer": ["Q5-1.png", "Q5-2.png", "Q5-3.png"]
+        }]
+    },
+    {
+        "Grade": [3, 4],
+        "DataSet": [
+        {
+            "QuestionCaption": "Sequence the Images in Order",
+            "InputType": "Image",
+            "OutputType": "Order",
+            "Question": ["Q6-1.png", "Q6-2.png", "Q6-3.png", "Q6-4.png"],
+            "Options": [],
+            "Answer": ["Q6-1.png", "Q6-2.png", "Q6-3.png", "Q6-4.png"]
+        },
+        {
+            "QuestionCaption": "Sequence the Images in Order",
+            "InputType": "Image",
+            "OutputType": "Order",
+            "Question": ["Q7-1.png", "Q7-2.png", "Q7-3.png", "Q7-4.png"],
+            "Options": [],
+            "Answer": ["Q7-1.png", "Q7-2.png", "Q7-3.png", "Q7-4.png"]
+        },
+        {
+            "QuestionCaption": "Sequence the Images in Order",
+            "InputType": "Image",
+            "OutputType": "Order",
+            "Question": ["Q8-1.png", "Q8-2.png", "Q8-3.png", "Q8-4.png"],
+            "Options": [],
+            "Answer": ["Q8-1.png", "Q8-2.png", "Q8-3.png", "Q8-4.png"]
+        },
+        {
+            "QuestionCaption": "Sequence the Images in Order",
+            "InputType": "Image",
+            "OutputType": "Order",
+            "Question": ["Q9-1.png", "Q9-2.png", "Q9-3.png", "Q9-4.png"],
+            "Options": [],
+            "Answer": ["Q9-1.png", "Q9-2.png", "Q9-3.png", "Q9-4.png"]
+        },
+        {
+            "QuestionCaption": "Sequence the Images in Order",
+            "InputType": "Image",
+            "OutputType": "Order",
+            "Question": ["Q10-1.png", "Q10-2.png", "Q10-3.png", "Q10-4.png"],
+            "Options": [],
+            "Answer": ["Q10-1.png", "Q10-2.png", "Q10-3.png", "Q10-4.png"]
+        }]
+    },
+    {
+        "Grade": [5, 6],
+        "DataSet": [
+        {
+            "QuestionCaption": "Sequence the Images in Order",
+            "InputType": "Image",
+            "OutputType": "Order",
+            "Question": ["Q11-1.png", "Q11-2.png", "Q11-3.png", "Q11-4.png", "Q11-5.png"],
+            "Options": [],
+            "Answer": ["Q11-1.png", "Q11-2.png", "Q11-3.png", "Q11-4.png", "Q11-5.png"]
+        },
+        {
+            "QuestionCaption": "Sequence the Images in Order",
+            "InputType": "Image",
+            "OutputType": "Order",
+            "Question": ["Q12-1.png", "Q12-2.png", "Q12-3.png", "Q12-4.png", "Q12-5.png", "Q12-6.png"],
+            "Options": [],
+            "Answer": ["Q12-1.png", "Q12-2.png", "Q12-3.png", "Q12-4.png", "Q12-5.png", "Q12-6.png"]
+        },
+        {
+            "QuestionCaption": "Sequence the Images in Order",
+            "InputType": "Image",
+            "OutputType": "Order",
+            "Question": ["Q13-1.png", "Q13-2.png", "Q13-3.png", "Q13-4.png", "Q13-5.png", "Q13-6.png"],
+            "Options": [],
+            "Answer": ["Q13-1.png", "Q13-2.png", "Q13-3.png", "Q13-4.png", "Q13-5.png", "Q13-6.png"]
+        },
+        {
+            "QuestionCaption": "Sequence the Images in Order",
+            "InputType": "Image",
+            "OutputType": "Order",
+            "Question": ["Q14-1.png", "Q14-2.png", "Q14-3.png", "Q14-4.png", "Q14-5.png", "Q14-6.png"],
+            "Options": [],
+            "Answer": ["Q14-1.png", "Q14-2.png", "Q14-3.png", "Q14-4.png", "Q14-5.png", "Q14-6.png"]
+        },
+        {
+            "QuestionCaption": "Sequence the Images in Order",
+            "InputType": "Image",
+            "OutputType": "Order",
+            "Question": ["Q15-1.png", "Q15-2.png", "Q15-3.png", "Q15-4.png", "Q15-5.png", "Q15-6.png"],
+            "Options": [],
+            "Answer": ["Q15-1.png", "Q15-2.png", "Q15-3.png", "Q15-4.png", "Q15-5.png", "Q15-6.png"]
+        }]
+    },
+    {
+        "Grade": [7, 8],
+        "DataSet": [
+        {
+            "QuestionCaption": "Sequence the Images in Order",
+            "InputType": "Image",
+            "OutputType": "Order",
+            "Question": ["Q16-1.png", "Q16-2.png", "Q16-3.png", "Q16-4.png", "Q16-5.png"],
+            "Options": [],
+            "Answer": ["Q16-1.png", "Q16-2.png", "Q16-3.png", "Q16-4.png", "Q16-5.png"]
+        },
+        {
+            "QuestionCaption": "Sequence the Images in Order",
+            "InputType": "Image",
+            "OutputType": "Order",
+            "Question": ["Q17-1.png", "Q17-2.png", "Q17-3.png", "Q17-4.png"],
+            "Options": [],
+            "Answer": ["Q17-1.png", "Q17-2.png", "Q17-3.png", "Q17-4.png"]
+        },
+        {
+            "QuestionCaption": "Sequence the Images in Order",
+            "InputType": "Image",
+            "OutputType": "Order",
+            "Question": ["Q18-1.png", "Q18-2.png", "Q18-3.png", "Q18-4.png", "Q18-5.png"],
+            "Options": [],
+            "Answer": ["Q18-1.png", "Q18-2.png", "Q18-3.png", "Q18-4.png", "Q18-5.png"]
+        },
+        {
+            "QuestionCaption": "Sequence the Images in Order",
+            "InputType": "Image",
+            "OutputType": "Order",
+            "Question": ["Q19-1.png", "Q19-2.png", "Q19-3.png", "Q19-4.png"],
+            "Options": [],
+            "Answer": ["Q19-1.png", "Q19-2.png", "Q19-3.png", "Q19-4.png"]
+        }]
+    },
+    {
+        "Grade": [9, 10],
+        "DataSet": [
+        {
+            "QuestionCaption": "Rearrange the jumbled words to meaningful sentences",
+            "InputType": "Text",
+            "OutputType": "Order",
+            "Question": ["to", "her", "all", "friends", "birthday", "next week", "party", "she is inviting"],
+            "Options": [],
+            "Answer": ["she is inviting", "all", "friends", "to", "her", "birthday", "party", "next week"]
+        },
+        {
+            "QuestionCaption": "Rearrange the jumbled words to meaningful sentences",
+            "InputType": "Text",
+            "OutputType": "Order",
+            "Question": ["lake", "is", "for", "the", "popular", "boating", "and swimming"],
+            "Options": [],
+            "Answer": ["the", "lake", "is", "popular", "for", "boating", "and", "swimming"]
+        },
+        {
+            "QuestionCaption": "Rearrange the jumbled words to meaningful sentences",
+            "InputType": "Text",
+            "OutputType": "Order",
+            "Question": ["baking", "powder", "dough", "with", "flour", "make", "butter", "eggs", "and", "soft"],
+            "Options": [],
+            "Answer": ["butter", "eggs", "and", "baking", "powder", "with", "flour", "make", "soft", "dough"]
+        },
+        {
+            "QuestionCaption": "Rearrange the jumbled words to meaningful sentences",
+            "InputType": "Text",
+            "OutputType": "Order",
+            "Question": ["oil", "was found", "in the 1960s", "north sea", "the", "under"],
+            "Options": [],
+            "Answer": ["oil", "was found", "under", "the", "north sea", "in the 1960s"]
+        },
+        {
+            "QuestionCaption": "Rearrange the jumbled words to meaningful sentences",
+            "InputType": "Text",
+            "OutputType": "Order",
+            "Question": ["fly", "to escape", "south", "starvation", "to", "chill", "and", "they"],
+            "Options": [],
+            "Answer": ["they", "fly", "to", "south", "to escape", "chill", "and", "starvation"]
+        }]
+    },
+    {
+        "Grade": [11, 12],
+        "DataSet": [
+        {
+            "QuestionCaption": "Rearrange the jumbled sentence to meaningful scenario",
+            "InputType": "Text",
+            "OutputType": "Order",
+            "Question": ["We decided to have a special morning assembly and a cultural programme in the last two periods.", "I have been chosen to be the Head Boy of my school.", "I was given the responsibility of organising the Children’s Day programme in the school.", "I had a meeting with the members of the Students’ Council to decide the programme."],
+            "Options": [],
+            "Answer": ["I have been chosen to be the Head Boy of my school.", "I was given the responsibility of organising the Children’s Day programme in the school.", "I had a meeting with the members of the Students’ Council to decide the programme.", "We decided to have a special morning assembly and a cultural programme in the last two periods."]
+        },
+        {
+            "QuestionCaption": "Rearrange the jumbled words to meaningful sentences",
+            "InputType": "Text",
+            "OutputType": "Order",
+            "Question": ["There was once a king in India who died leaving behind three sons.", "The eldest of the three sons would have become the king after his father.", "But the captain of the king’s army wanted the kingdom for himself.", "So he drove the three sons away."],
+            "Options": [],
+            "Answer": ["There was once a king in India who died leaving behind three sons.", "The eldest of the three sons would have become the king after his father.", "But the captain of the king’s army wanted the kingdom for himself.", "So he drove the three sons away."]
+        },
+        {
+            "QuestionCaption": "Rearrange the jumbled words to meaningful sentences",
+            "InputType": "Text",
+            "OutputType": "Order",
+            "Question": ["Wheat seeds are planted in October.", "They grow to about 8” height by December.", "At this time in December, they need watering.", "Special arrangements are made to water the wheat plants in winter."],
+            "Options": [],
+            "Answer": ["Wheat seeds are planted in October.", "They grow to about 8” height by December.", "At this time in December, they need watering.", "Special arrangements are made to water the wheat plants in winter."]
+        },
+        {
+            "QuestionCaption": "Rearrange the jumbled words to meaningful sentences",
+            "InputType": "Text",
+            "OutputType": "Order",
+            "Question": ["Ashoka was born in the ruling Maurya family of Magadha.", "He had many brothers.", "When the old king died, there was fighting between the brothers for the throne.", "Ashoka was able to defeat his brothers."],
+            "Options": [],
+            "Answer": ["Ashoka was born in the ruling Maurya family of Magadha.", "He had many brothers.", "When the old king died, there was fighting between the brothers for the throne.", "Ashoka was able to defeat his brothers."]
+        },
+        {
+            "QuestionCaption": "Rearrange the jumbled words to meaningful sentences",
+            "InputType": "Text",
+            "OutputType": "Order",
+            "Question": ["Mahatma Gandhi is called the Father of the Nation.", "He is called so because he led India to freedom from British rule.", "He started fighting for India’s freedom after he returned from South Africa.", "The first cause that he took up was of an indigo farmer of Champaran, Bihar."],
+            "Options": [],
+            "Answer": ["Mahatma Gandhi is called the Father of the Nation.", "He is called so because he led India to freedom from British rule.", "He started fighting for India’s freedom after he returned from South Africa.", "The first cause that he took up was of an indigo farmer of Champaran, Bihar."]
+        }]
+    }]
+}

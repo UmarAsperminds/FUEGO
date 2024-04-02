@@ -1,0 +1,8524 @@
+[
+	{
+		"_id" : ObjectId("6304e8800988196b379bb9d5"),
+		"Category" : "Reading",
+		"Type" : "Spelling",
+		"GradewiseDataSet" : [
+			{
+				"Grade" : [
+					1,
+					2
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "",
+						"InputType" : "Text",
+						"OutputType" : "Button",
+						"Question" : [
+							"Which Flows on the river?"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"BOAT"
+						]
+					},
+					{
+						"QuestionCaption" : "",
+						"InputType" : "Text",
+						"OutputType" : "Button",
+						"Question" : [
+							"It is the king of the forest."
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"LION"
+						]
+					},
+					{
+						"QuestionCaption" : "",
+						"InputType" : "Text",
+						"OutputType" : "Button",
+						"Question" : [
+							"It's a red flower."
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"ROSE"
+						]
+					},
+					{
+						"QuestionCaption" : "",
+						"InputType" : "Text",
+						"OutputType" : "Button",
+						"Question" : [
+							"What is the color of the sky?"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"BLUE"
+						]
+					},
+					{
+						"QuestionCaption" : "",
+						"InputType" : "Text",
+						"OutputType" : "Button",
+						"Question" : [
+							"Which is your favourite food?"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"CANDY"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					3,
+					4
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "",
+						"InputType" : "Tex",
+						"OutputType" : "Button",
+						"Question" : [
+							"It is a dry land."
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"DESERT"
+						]
+					},
+					{
+						"QuestionCaption" : "",
+						"InputType" : "Tex",
+						"OutputType" : "Text",
+						"Question" : [
+							"it is a morning bliss."
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"COFFEE"
+						]
+					},
+					{
+						"QuestionCaption" : "",
+						"InputType" : "Tex",
+						"OutputType" : "Button",
+						"Question" : [
+							"it rises in the east and sets in the west"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"SUN"
+						]
+					},
+					{
+						"QuestionCaption" : "",
+						"InputType" : "Tex",
+						"OutputType" : "Button",
+						"Question" : [
+							"It twinkles in the night."
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"STAR"
+						]
+					},
+					{
+						"QuestionCaption" : "",
+						"InputType" : "Tex",
+						"OutputType" : "Button",
+						"Question" : [
+							"Which tells you the time?"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"WATCH"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					5,
+					6
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "",
+						"InputType" : "Text",
+						"OutputType" : "Button",
+						"Question" : [
+							"Night of the light."
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"MOON"
+						]
+					},
+					{
+						"QuestionCaption" : "",
+						"InputType" : "Text",
+						"OutputType" : "Button",
+						"Question" : [
+							"It's floats in the sky"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"CLOUD"
+						]
+					},
+					{
+						"QuestionCaption" : "",
+						"InputType" : "Text",
+						"OutputType" : "Button",
+						"Question" : [
+							"Which you play with"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"TOYS"
+						]
+					},
+					{
+						"QuestionCaption" : "",
+						"InputType" : "Text",
+						"OutputType" : "Button",
+						"Question" : [
+							"With whom you bond with?"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"FRIENDS"
+						]
+					},
+					{
+						"QuestionCaption" : "",
+						"InputType" : "Text",
+						"OutputType" : "Button",
+						"Question" : [
+							"What you daily read?"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"NEWS PAPER"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					7,
+					8
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "",
+						"InputType" : "Text",
+						"OutputType" : "Button",
+						"Question" : [
+							"How many colors in the rainbow?"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"SEVEN"
+						]
+					},
+					{
+						"QuestionCaption" : "",
+						"InputType" : "Text",
+						"OutputType" : "Button",
+						"Question" : [
+							"What is essential in life?"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"WATER"
+						]
+					},
+					{
+						"QuestionCaption" : "",
+						"InputType" : "Text",
+						"OutputType" : "Button",
+						"Question" : [
+							"How many consonants are there in the English alphabet?"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"TWENTY ONE"
+						]
+					},
+					{
+						"QuestionCaption" : "",
+						"InputType" : "Text",
+						"OutputType" : "Button",
+						"Question" : [
+							"Which is the tallest mountain in the world?"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"MOUNT EVEREST"
+						]
+					},
+					{
+						"QuestionCaption" : "",
+						"InputType" : "Text",
+						"OutputType" : "Button",
+						"Question" : [
+							"How many players are there on the football team?"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"ELEVEN"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					9,
+					10
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "",
+						"InputType" : "Text",
+						"OutputType" : "Button",
+						"Question" : [
+							" How many zeros are there in one billion?"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"NINE"
+						]
+					},
+					{
+						"QuestionCaption" : "",
+						"InputType" : "Text",
+						"OutputType" : "Button",
+						"Question" : [
+							"Name the largest river in the world?"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"AMAZON"
+						]
+					},
+					{
+						"QuestionCaption" : "",
+						"InputType" : "Text",
+						"OutputType" : "Button",
+						"Question" : [
+							"Name one heavy metal?"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"GOLD"
+						]
+					},
+					{
+						"QuestionCaption" : "",
+						"InputType" : "Text",
+						"OutputType" : "Button",
+						"Question" : [
+							"What is Mahatma Gandhi called?"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"FATHER OF NATION"
+						]
+					},
+					{
+						"QuestionCaption" : "",
+						"InputType" : "Text",
+						"OutputType" : "Button",
+						"Question" : [
+							"In Which sea Ganga river falls?"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"BAY OF BENGAL"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					11,
+					12
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "",
+						"InputType" : "Text",
+						"OutputType" : "Button",
+						"Question" : [
+							"What is the total number of dots on a dice?"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"TWENTY ONE"
+						]
+					},
+					{
+						"QuestionCaption" : "",
+						"InputType" : "Text",
+						"OutputType" : "Button",
+						"Question" : [
+							"Where is the World Health Organisation situated?"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"SWITZERLAND"
+						]
+					},
+					{
+						"QuestionCaption" : "",
+						"InputType" : "Text",
+						"OutputType" : "Button",
+						"Question" : [
+							"What is the language from which the word ‘Tsunami’ comes from?"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"JAPANESE"
+						]
+					},
+					{
+						"QuestionCaption" : "",
+						"InputType" : "Text",
+						"OutputType" : "Button",
+						"Question" : [
+							"Which continent is considered the hottest in the world?"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"AFRICA"
+						]
+					},
+					{
+						"QuestionCaption" : "",
+						"InputType" : "Text",
+						"OutputType" : "Button",
+						"Question" : [
+							"Which is the largest animal in water?"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"BLUE WHALE"
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"_id" : ObjectId("6304e8800988196b379bb9d6"),
+		"Category" : "Reading",
+		"Type" : "Pronounce",
+		"GradewiseDataSet" : [
+			{
+				"Grade" : [
+					1,
+					2
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Read the Words",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"Ball"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Ball"
+						]
+					},
+					{
+						"QuestionCaption" : "Read the Words",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"Hand"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Hand"
+						]
+					},
+					{
+						"QuestionCaption" : "Read the Words",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"Road"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Road"
+						]
+					},
+					{
+						"QuestionCaption" : "Read the Words",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"Key"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Key"
+						]
+					},
+					{
+						"QuestionCaption" : "Read the Words",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"Book"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Book"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					3,
+					4
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Read the Words",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"Clock"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Clock"
+						]
+					},
+					{
+						"QuestionCaption" : "Read the Words",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"Yellow"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Yellow"
+						]
+					},
+					{
+						"QuestionCaption" : "Read the Words",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"Pocket"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Pocket"
+						]
+					},
+					{
+						"QuestionCaption" : "Read the Words",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"Little"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Little"
+						]
+					},
+					{
+						"QuestionCaption" : "Read the Words",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"Mouth"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Mouth"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					5,
+					6
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Read the Words",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"Account"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Account"
+						]
+					},
+					{
+						"QuestionCaption" : "Read the Words",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"Thought"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Thought"
+						]
+					},
+					{
+						"QuestionCaption" : "Read the Words",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"Science"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Science"
+						]
+					},
+					{
+						"QuestionCaption" : "Read the Words",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"Particle"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Particle"
+						]
+					},
+					{
+						"QuestionCaption" : "Read the Words",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"Batteries"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Batteries"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					7,
+					8
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Read the Words",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"University"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"University"
+						]
+					},
+					{
+						"QuestionCaption" : "Read the Words",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"Acceptance"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Acceptance"
+						]
+					},
+					{
+						"QuestionCaption" : "Read the Words",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"Dictionary"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Dictionary"
+						]
+					},
+					{
+						"QuestionCaption" : "Read the Words",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"Brainwash"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Brainwash"
+						]
+					},
+					{
+						"QuestionCaption" : "Read the Words",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"Advantage"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Advantage"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					9,
+					10
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Read the Words",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"Preservative"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Preservative"
+						]
+					},
+					{
+						"QuestionCaption" : "Read the Words",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"Photography"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Photography"
+						]
+					},
+					{
+						"QuestionCaption" : "Read the Words",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"Kinematical"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Kinematical"
+						]
+					},
+					{
+						"QuestionCaption" : "Read the Words",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"Laboratories"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Laboratories"
+						]
+					},
+					{
+						"QuestionCaption" : "Read the Words",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"Information"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Information"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					11,
+					12
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Read the Words",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"Individualism"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Individualism"
+						]
+					},
+					{
+						"QuestionCaption" : "Read the Words",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"Representation"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Representation"
+						]
+					},
+					{
+						"QuestionCaption" : "Read the Words",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"Sensationalize"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Sensationalize"
+						]
+					},
+					{
+						"QuestionCaption" : "Read the Words",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"Constitutional"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Constitutional"
+						]
+					},
+					{
+						"QuestionCaption" : "Read the Words",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"Environmental"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Environmental"
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"_id" : ObjectId("6304e8800988196b379bb9d7"),
+		"Category" : "Reading",
+		"Type" : "Sentence",
+		"GradewiseDataSet" : [
+			{
+				"Grade" : [
+					1,
+					2
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Read the Sentence",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"Sun rises in the east"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Sun rises in the east"
+						]
+					},
+					{
+						"QuestionCaption" : "Read the Sentence",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"Get up early in the morning"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Get up early in the morning"
+						]
+					},
+					{
+						"QuestionCaption" : "Read the Sentence",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"Brush your teeth two times a day"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Brush your teeth two times a day"
+						]
+					},
+					{
+						"QuestionCaption" : "Read the Sentence",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"Brush your teeth two times a day"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Brush your teeth two times a day"
+						]
+					},
+					{
+						"QuestionCaption" : "Read the Sentence",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"Obey your elders"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Obey your elders"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					3,
+					4
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Read the Sentence",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"Tomato's and Avacado's are actually fruits"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Tomato's and Avacado's are actually fruits"
+						]
+					},
+					{
+						"QuestionCaption" : "Read the Sentence",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"Exercising is very positive for the immune system"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Exercising is very positive for the immune system"
+						]
+					},
+					{
+						"QuestionCaption" : "Read the Sentence",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"Recycle the waste products"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Recycle the waste products"
+						]
+					},
+					{
+						"QuestionCaption" : "Read the Sentence",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"The bottom number on a fraction is called the denominator"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"The bottom number on a fraction is called the denominator"
+						]
+					},
+					{
+						"QuestionCaption" : "Read the Sentence",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"I borrowed a book from library"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"I borrowed a book from library"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					5,
+					6
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Read the Sentence",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"Rainforest plants and trees provide many species,fruits and vegetables"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Rainforest plants and trees provide many species,fruits and vegetables"
+						]
+					},
+					{
+						"QuestionCaption" : "Read the Sentence",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"The president has a very powerful position"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"The president has a very powerful position"
+						]
+					},
+					{
+						"QuestionCaption" : "Read the Sentence",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"Let's go to the scary movie"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Let's go to the scary movie"
+						]
+					},
+					{
+						"QuestionCaption" : "Read the Sentence",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"Every time we work hard,we will get good grade"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Every time we work hard,we will get good grade"
+						]
+					},
+					{
+						"QuestionCaption" : "Read the Sentence",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"Lines of latitude and longitude help us find the absolute location of places"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Lines of latitude and longitude help us find the absolute location of places"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					7,
+					8
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Read the Sentence",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"When surplus supplies are available to sell or barter,the economy improves"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"When surplus supplies are available to sell or barter,the economy improves"
+						]
+					},
+					{
+						"QuestionCaption" : "Read the Sentence",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"Cytoplasm is a thick fluid within a cell that suspends the organelles"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Cytoplasm is a thick fluid within a cell that suspends the organelles"
+						]
+					},
+					{
+						"QuestionCaption" : "Read the Sentence",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"Camouflage helps animals escape predators in the jungle"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Camouflage helps animals escape predators in the jungle"
+						]
+					},
+					{
+						"QuestionCaption" : "Read the Sentence",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"We depend on the many natural resources that are in danger of being destroyed"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"We depend on the many natural resources that are in danger of being destroyed"
+						]
+					},
+					{
+						"QuestionCaption" : "Read the Sentence",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"The forbidden fruit is always the sweetest"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"The forbidden fruit is always the sweetest"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					9,
+					10
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Read the Sentence",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"If the ozone layer collapses,the global community will suffer"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"If the ozone layer collapses,the global community will suffer"
+						]
+					},
+					{
+						"QuestionCaption" : "Read the Sentence",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"Epithet is  an adjective or phrase expressing a quality or attribute regarded as characteristic of the person or the thing mentioned"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Epithet is  an adjective or phrase expressing a quality or attribute regarded as characteristic of the person or the thing mentioned"
+						]
+					},
+					{
+						"QuestionCaption" : "Read the Sentence",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"Function effectively as an individual,and as a member or leader in diverse teams."
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Function effectively as an individual,and as a member or leader in diverse teams."
+						]
+					},
+					{
+						"QuestionCaption" : "Read the Sentence",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"On October 2008,ISRO launched  its first unmanned lunar space probe "
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"On October 2008,ISRO launched  its first unmanned lunar space probe "
+						]
+					},
+					{
+						"QuestionCaption" : "Read the Sentence",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"The dump was so full, that it had to refuse more refuse"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"The dump was so full, that it had to refuse more refuse"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					11,
+					12
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Read the Sentence",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"As Very Large Scale Integration continues to develop, a proliferation of specialized circuit simulators will be utilized"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"As Very Large Scale Integration continues to develop, a proliferation of specialized circuit simulators will be utilized"
+						]
+					},
+					{
+						"QuestionCaption" : "Read the Sentence",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"On the account of further discussion,we want to state in the affirmative that what transpired was due to the fact that the vehicle had insufficient braking capabilities to avoid the collision"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"On the account of further discussion,we want to state in the affirmative that what transpired was due to the fact that the vehicle had insufficient braking capabilities to avoid the collision"
+						]
+					},
+					{
+						"QuestionCaption" : "Read the Sentence",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"In as much as we have endeavored to determine the causes of the dilemma without success, we are terminating this  fact-finding  operation immediately"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"In as much as we have endeavored to determine the causes of the dilemma without success, we are terminating this  fact-finding  operation immediately"
+						]
+					},
+					{
+						"QuestionCaption" : "Read the Sentence",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice."
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice."
+						]
+					},
+					{
+						"QuestionCaption" : "Read the Sentence",
+						"InputType" : "Text",
+						"OutputType" : "Audio",
+						"Question" : [
+							"Avoid obscurity and ambiguity-make your point"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Avoid obscurity and ambiguity-make your point"
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"_id" : ObjectId("6304e8800988196b379bb9d8"),
+		"Category" : "Reading",
+		"Type" : "ImageReading",
+		"GradewiseDataSet" : [
+			{
+				"Grade" : [
+					1,
+					2
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Tell the Image Name",
+						"InputType" : "Image",
+						"OutputType" : "Audio",
+						"Question" : [
+							"R-1-4.png"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Fan"
+						]
+					},
+					{
+						"QuestionCaption" : "Tell the Image Name",
+						"InputType" : "Image",
+						"OutputType" : "Audio",
+						"Question" : [
+							"R-2-5.png"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Cap"
+						]
+					},
+					{
+						"QuestionCaption" : "Tell the Image Name",
+						"InputType" : "Image",
+						"OutputType" : "Audio",
+						"Question" : [
+							"R-2-6.jpeg"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"House"
+						]
+					},
+					{
+						"QuestionCaption" : "Tell the Image Name",
+						"InputType" : "Image",
+						"OutputType" : "Audio",
+						"Question" : [
+							"R-1-6.png"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Rose"
+						]
+					},
+					{
+						"QuestionCaption" : "Tell the Image Name",
+						"InputType" : "Image",
+						"OutputType" : "Audio",
+						"Question" : [
+							"R-4-1.png"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Bulb"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					3,
+					4
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Tell the Image Name",
+						"InputType" : "Image",
+						"OutputType" : "Audio",
+						"Question" : [
+							"R-2-3.png"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Kite"
+						]
+					},
+					{
+						"QuestionCaption" : "Tell the Image Name",
+						"InputType" : "Image",
+						"OutputType" : "Audio",
+						"Question" : [
+							"R-2-4.png"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Chair"
+						]
+					},
+					{
+						"QuestionCaption" : "Tell the Image Name",
+						"InputType" : "Image",
+						"OutputType" : "Audio",
+						"Question" : [
+							"R-1-3.png"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Train"
+						]
+					},
+					{
+						"QuestionCaption" : "Tell the Image Name",
+						"InputType" : "Image",
+						"OutputType" : "Audio",
+						"Question" : [
+							"R-3-3.png"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Mouse"
+						]
+					},
+					{
+						"QuestionCaption" : "Tell the Image Name",
+						"InputType" : "Image",
+						"OutputType" : "Audio",
+						"Question" : [
+							"R-6-3.png"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Grapes"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					5,
+					6
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Tell the Image Name",
+						"InputType" : "Image",
+						"OutputType" : "Audio",
+						"Question" : [
+							"R-1-1.png"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Elephant"
+						]
+					},
+					{
+						"QuestionCaption" : "Tell the Image Name",
+						"InputType" : "Image",
+						"OutputType" : "Audio",
+						"Question" : [
+							"R-3-2.jpeg"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Pencil"
+						]
+					},
+					{
+						"QuestionCaption" : "Tell the Image Name",
+						"InputType" : "Image",
+						"OutputType" : "Audio",
+						"Question" : [
+							"R-2-2.png"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Triangle"
+						]
+					},
+					{
+						"QuestionCaption" : "Tell the Image Name",
+						"InputType" : "Image",
+						"OutputType" : "Audio",
+						"Question" : [
+							"R-3-6.jpg"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Butterfly"
+						]
+					},
+					{
+						"QuestionCaption" : "Tell the Image Name",
+						"InputType" : "Image",
+						"OutputType" : "Audio",
+						"Question" : [
+							"R-4-5.jpeg"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"COmputer"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					7,
+					8
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Tell the Image Name",
+						"InputType" : "Image",
+						"OutputType" : "Audio",
+						"Question" : [
+							"R-3-5.png"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Igloo"
+						]
+					},
+					{
+						"QuestionCaption" : "Tell the Image Name",
+						"InputType" : "Image",
+						"OutputType" : "Audio",
+						"Question" : [
+							"R-3-1.jpeg"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Giraffee"
+						]
+					},
+					{
+						"QuestionCaption" : "Tell the Image Name",
+						"InputType" : "Image",
+						"OutputType" : "Audio",
+						"Question" : [
+							"R-2-1.png"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Umbrella"
+						]
+					},
+					{
+						"QuestionCaption" : "Tell the Image Name",
+						"InputType" : "Image",
+						"OutputType" : "Audio",
+						"Question" : [
+							"R-3-4.png"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Sand Clock"
+						]
+					},
+					{
+						"QuestionCaption" : "Tell the Image Name",
+						"InputType" : "Image",
+						"OutputType" : "Audio",
+						"Question" : [
+							"R-4-4.png"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Helicopter"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					9,
+					10
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Tell the Image Name",
+						"InputType" : "Image",
+						"OutputType" : "Audio",
+						"Question" : [
+							"R-5-1.jpg"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"SolarSystem"
+						]
+					},
+					{
+						"QuestionCaption" : "Tell the Image Name",
+						"InputType" : "Image",
+						"OutputType" : "Audio",
+						"Question" : [
+							"R-5-2.jpg"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Mountain"
+						]
+					},
+					{
+						"QuestionCaption" : "Tell the Image Name",
+						"InputType" : "Image",
+						"OutputType" : "Audio",
+						"Question" : [
+							"R-5-3.jpg"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"PeriodicTable"
+						]
+					},
+					{
+						"QuestionCaption" : "Tell the Image Name",
+						"InputType" : "Image",
+						"OutputType" : "Audio",
+						"Question" : [
+							"R-5-4.png"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Microscope"
+						]
+					},
+					{
+						"QuestionCaption" : "Tell the Image Name",
+						"InputType" : "Image",
+						"OutputType" : "Audio",
+						"Question" : [
+							"R-5-5.png"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Stethescope"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					11,
+					12
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Tell the Image Name",
+						"InputType" : "Image",
+						"OutputType" : "Audio",
+						"Question" : [
+							"R-6-1.jpg"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Hippopotamus"
+						]
+					},
+					{
+						"QuestionCaption" : "Tell the Image Name",
+						"InputType" : "Image",
+						"OutputType" : "Audio",
+						"Question" : [
+							"R-6-2.jpeg"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Graphics card"
+						]
+					},
+					{
+						"QuestionCaption" : "Tell the Image Name",
+						"InputType" : "Image",
+						"OutputType" : "Audio",
+						"Question" : [
+							"R-6-4.jpeg"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Universe"
+						]
+					},
+					{
+						"QuestionCaption" : "Tell the Image Name",
+						"InputType" : "Image",
+						"OutputType" : "Audio",
+						"Question" : [
+							"R-6-5.jpeg"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Eiffel Tower"
+						]
+					},
+					{
+						"QuestionCaption" : "Tell the Image Name",
+						"InputType" : "Image",
+						"OutputType" : "Audio",
+						"Question" : [
+							"R-6-6.jpeg"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Chemicals"
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"_id" : ObjectId("6304e8800988196b379bb9d9"),
+		"Category" : "Writing",
+		"Type" : "AudioToImage",
+		"GradewiseDataSet" : [
+			{
+				"Grade" : [
+					1,
+					2
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Listen to the Audio and Write",
+						"InputType" : "Audio",
+						"OutputType" : "Image",
+						"Question" : [
+							"Dog"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Dog"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen to the Audio and Write ",
+						"InputType" : "Audio",
+						"OutputType" : "Image",
+						"Question" : [
+							"Cat"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Cat"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen to the Audio and Write ",
+						"InputType" : "Audio",
+						"OutputType" : "Image",
+						"Question" : [
+							"Run"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Run"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen to the Audio and Write ",
+						"InputType" : "Audio",
+						"OutputType" : "Image",
+						"Question" : [
+							"New"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"New"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen to the Audio and Write ",
+						"InputType" : "Audio",
+						"OutputType" : "Image",
+						"Question" : [
+							"Sip"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Sip"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					3,
+					4
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Listen to the audio and write",
+						"InputType" : "Audio",
+						"OutputType" : "Image",
+						"Question" : [
+							"Family"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Family"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen to the audio and write",
+						"InputType" : "Audio",
+						"OutputType" : "Image",
+						"Question" : [
+							"Second"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Second"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen to the audio and write",
+						"InputType" : "Audio",
+						"OutputType" : "Image",
+						"Question" : [
+							"Washing"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Washing"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen to the audio and write",
+						"InputType" : "Audio",
+						"OutputType" : "Image",
+						"Question" : [
+							"Register"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Register"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen to the audio and write",
+						"InputType" : "Audio",
+						"OutputType" : "Image",
+						"Question" : [
+							"Treasure"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Treasure"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					5,
+					6
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Listen to the audio and write",
+						"InputType" : "Audio",
+						"OutputType" : "Image",
+						"Question" : [
+							"Groceries"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Groceries"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen to the audio and write",
+						"InputType" : "Audio",
+						"OutputType" : "Image",
+						"Question" : [
+							"DownStairs"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"DownStairs"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen to the audio and write",
+						"InputType" : "Audio",
+						"OutputType" : "Image",
+						"Question" : [
+							"Papermache"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Papermache"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen to the audio and write",
+						"InputType" : "Audio",
+						"OutputType" : "Image",
+						"Question" : [
+							"Symbolism"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Symbolism"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen to the audio and write",
+						"InputType" : "Audio",
+						"OutputType" : "Image",
+						"Question" : [
+							"Beautiful"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Beautiful"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					7,
+					8
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Listen to the audio and write",
+						"InputType" : "Audio",
+						"OutputType" : "Image",
+						"Question" : [
+							"Conversation"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Conversaton"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen to the audio and write",
+						"InputType" : "Audio",
+						"OutputType" : "Image",
+						"Question" : [
+							"Contagious"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Contagious"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen to the audio and write",
+						"InputType" : "Audio",
+						"OutputType" : "Image",
+						"Question" : [
+							"Howard"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Howard"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen to the audio and write",
+						"InputType" : "Audio",
+						"OutputType" : "Image",
+						"Question" : [
+							"Symbolism"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Symbolism"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen to the audio and write",
+						"InputType" : "Audio",
+						"OutputType" : "Image",
+						"Question" : [
+							"Beautiful"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Beautiful"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					9,
+					10
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Listen to the audio and write",
+						"InputType" : "Audio",
+						"OutputType" : "Image",
+						"Question" : [
+							"The Black cat could not jump over the fence"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"The Black cat could not jump over the fence"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen to the audio and write",
+						"InputType" : "Audio",
+						"OutputType" : "Image",
+						"Question" : [
+							"All of a student the view was obliterated by the street burning smoke"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"All of a student the view was obliterated by the street burning smoke"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen to the audio and write",
+						"InputType" : "Audio",
+						"OutputType" : "Image",
+						"Question" : [
+							"You can tell me the truth regardless of what you have in your mind"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"You can tell me the truth regardless of what you have in your mind"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen to the audio and write",
+						"InputType" : "Audio",
+						"OutputType" : "Image",
+						"Question" : [
+							"The project turned out to be beyond our team skills"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"The project turned out to be beyond our team skills"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen to the audio and write",
+						"InputType" : "Audio",
+						"OutputType" : "Image",
+						"Question" : [
+							"I will take it easy as it is only a first internal exam"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"I will take it easy as it is only a first internal exam"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					11,
+					12
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Listen to the audio and write",
+						"InputType" : "Audio",
+						"OutputType" : "Image",
+						"Question" : [
+							"Although this decision can have bigger impact, we can work out for a better understanding"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Although this decision can have bigger impact, we can work out for a better understanding"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen to the audio and write",
+						"InputType" : "Audio",
+						"OutputType" : "Image",
+						"Question" : [
+							"As long as you concentrate in your studies, you would be scoring good marks"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"As long as you concentrate in your studies, you would be scoring good marks"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen to the audio and write",
+						"InputType" : "Audio",
+						"OutputType" : "Image",
+						"Question" : [
+							"I wasn't quite sure of myself"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"I wasn't quite sure of myself"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen to the audio and write",
+						"InputType" : "Audio",
+						"OutputType" : "Image",
+						"Question" : [
+							"When he became a fully grown up one, he began to go faar and wide"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"When he became a fully grown up one, he began to go faar and wide"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen to the audio and write",
+						"InputType" : "Audio",
+						"OutputType" : "Image",
+						"Question" : [
+							"At 6 sharp in the morning, he would start to be restless"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"At 6 sharp in the morning, he would start to be restless"
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"_id" : ObjectId("6304e8800988196b379bb9da"),
+		"Category" : "Writing",
+		"Type" : "ImageToImage",
+		"GradewiseDataSet" : [
+			{
+				"Grade" : [
+					1,
+					2
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Name the object in one word ",
+						"InputType" : "Image",
+						"OutputType" : "Image",
+						"Question" : [
+							"fan.jpeg"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Fan"
+						]
+					},
+					{
+						"QuestionCaption" : "Name the object in one word ",
+						"InputType" : "Image",
+						"OutputType" : "Image",
+						"Question" : [
+							"lock.jpeg"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Lock"
+						]
+					},
+					{
+						"QuestionCaption" : "Name the object in one word",
+						"InputType" : "Image",
+						"OutputType" : "Image",
+						"Question" : [
+							"plant.png"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Plant"
+						]
+					},
+					{
+						"QuestionCaption" : "Name the object in one word ",
+						"InputType" : "Image",
+						"OutputType" : "Image",
+						"Question" : [
+							"river.jpg"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"River"
+						]
+					},
+					{
+						"QuestionCaption" : "Name the object in one word ",
+						"InputType" : "Image",
+						"OutputType" : "Image",
+						"Question" : [
+							"zebra.jpg"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Zebra"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					3,
+					4
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Find the action, which starts with letter B ",
+						"InputType" : "Image",
+						"OutputType" : "Image",
+						"Question" : [
+							"bathing.jpg"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Bathing"
+						]
+					},
+					{
+						"QuestionCaption" : "Find the action,which starts with letter C",
+						"InputType" : "Image",
+						"OutputType" : "Image",
+						"Question" : [
+							"cleaning.jpeg"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Cleaning"
+						]
+					},
+					{
+						"QuestionCaption" : "Find the action, which starts with letter B",
+						"InputType" : "Image",
+						"OutputType" : "Image",
+						"Question" : [
+							"brushing.jpg"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Brushing"
+						]
+					},
+					{
+						"QuestionCaption" : "Find the action, which starts with letter E",
+						"InputType" : "Image",
+						"OutputType" : "Image",
+						"Question" : [
+							"eating.jpeg"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Eating"
+						]
+					},
+					{
+						"QuestionCaption" : "Find the action, which starts with letter S ",
+						"InputType" : "Image",
+						"OutputType" : "Image",
+						"Question" : [
+							"sleeping.jpeg"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Sleeping"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					5,
+					6
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Find the action, which starts with letter C ",
+						"InputType" : "Image",
+						"OutputType" : "Image",
+						"Question" : [
+							"cycling.jpg"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Cycling"
+						]
+					},
+					{
+						"QuestionCaption" : "Find the action, which starts with letter D ",
+						"InputType" : "Image",
+						"OutputType" : "Image",
+						"Question" : [
+							"diving.jpeg"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Diving"
+						]
+					},
+					{
+						"QuestionCaption" : "Find the action, which starts with letter G",
+						"InputType" : "Image",
+						"OutputType" : "Image",
+						"Question" : [
+							"gymnastic.jpeg"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Gymnastic"
+						]
+					},
+					{
+						"QuestionCaption" : "Find the action, which starts with letter S ",
+						"InputType" : "Image",
+						"OutputType" : "Image",
+						"Question" : [
+							"skipping.jpg"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Skipping"
+						]
+					},
+					{
+						"QuestionCaption" : "Find the action, which starts with letter T",
+						"InputType" : "Image",
+						"OutputType" : "Image",
+						"Question" : [
+							"typing.jpg"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Typing"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					7,
+					8
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Express the image in one word, which ends with N",
+						"InputType" : "Image",
+						"OutputType" : "Image",
+						"Question" : [
+							"explosion.jpeg"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Explosion"
+						]
+					},
+					{
+						"QuestionCaption" : "Express the image in one word, which starts with letter S",
+						"InputType" : "Image",
+						"OutputType" : "Image",
+						"Question" : [
+							"skiing.jpeg"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Skiing"
+						]
+					},
+					{
+						"QuestionCaption" : "Express the image in one word, which starts with letter F",
+						"InputType" : "Image",
+						"OutputType" : "Image",
+						"Question" : [
+							"fishing.jpeg"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Fishing"
+						]
+					},
+					{
+						"QuestionCaption" : "Express the image in one word, which starts with letter G",
+						"InputType" : "Image",
+						"OutputType" : "Image",
+						"Question" : [
+							"gurgling.jpg"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Gurgling"
+						]
+					},
+					{
+						"QuestionCaption" : "Express the image in one word, which starts with letter S",
+						"InputType" : "Image",
+						"OutputType" : "Image",
+						"Question" : [
+							"scubadiving.jpg"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Scubadiving"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					9,
+					10
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Express the image in one word,which  starts with letter E",
+						"InputType" : "Image",
+						"OutputType" : "Image",
+						"Question" : [
+							"exercising.jpeg"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Exercising"
+						]
+					},
+					{
+						"QuestionCaption" : "Express the image in one word, which Ends with letter A",
+						"InputType" : "Image",
+						"OutputType" : "Image",
+						"Question" : [
+							"gatewayindia.jpeg"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Gateway India"
+						]
+					},
+					{
+						"QuestionCaption" : "Express the image in one word, which Ends with letter L",
+						"InputType" : "Image",
+						"OutputType" : "Image",
+						"Question" : [
+							"greatewall.jpeg"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Greatewall"
+						]
+					},
+					{
+						"QuestionCaption" : "Expresss the Image and write, which Ends with letter R",
+						"InputType" : "Image",
+						"OutputType" : "Image",
+						"Question" : [
+							"qutubminor.jpeg"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Qutub Minor"
+						]
+					},
+					{
+						"QuestionCaption" : "Expresss the Image and write, which starts with letter T",
+						"InputType" : "Image",
+						"OutputType" : "Image",
+						"Question" : [
+							"thiruvalluvar.jpg"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Thiruvalluvar"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					11.12
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Find molecular name of the element shown in image, which starts with letter C",
+						"InputType" : "Image",
+						"OutputType" : "Image",
+						"Question" : [
+							"calcium.jpg"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Calcium"
+						]
+					},
+					{
+						"QuestionCaption" : "Find the name of the element shown in image, which starts with letter G ",
+						"InputType" : "Image",
+						"OutputType" : "Image",
+						"Question" : [
+							"gold.png"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Gold"
+						]
+					},
+					{
+						"QuestionCaption" : "Find molecular name of the element shown in image, which starts with letter H",
+						"InputType" : "Image",
+						"OutputType" : "Image",
+						"Question" : [
+							"Hydrogen.jpg"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Hydrogen"
+						]
+					},
+					{
+						"QuestionCaption" : "Find molecular name of the element shown in image, which starts with letter F ",
+						"InputType" : "Image",
+						"OutputType" : "Image",
+						"Question" : [
+							"iron.jpeg"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Ferrous"
+						]
+					},
+					{
+						"QuestionCaption" : "Find molecular name of the element shown in image, which starts with letter L ",
+						"InputType" : "Image",
+						"OutputType" : "Image",
+						"Question" : [
+							"lead.jpg"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Lead"
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"_id" : ObjectId("6304e8800988196b379bb9db"),
+		"Category" : "Writing",
+		"Type" : "TextToImage",
+		"GradewiseDataSet" : [
+			{
+				"Grade" : [
+					1,
+					2
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "See the Text and Wtite",
+						"InputType" : "Text",
+						"OutputType" : "Image",
+						"Question" : [
+							"Rural"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Rural"
+						]
+					},
+					{
+						"QuestionCaption" : "See the Text and Wtite ",
+						"InputType" : "Text",
+						"OutputType" : "Image",
+						"Question" : [
+							"Enormity"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Enormity"
+						]
+					},
+					{
+						"QuestionCaption" : "See the Text and Wtite ",
+						"InputType" : "Text",
+						"OutputType" : "Image",
+						"Question" : [
+							"Amazing"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Amazing"
+						]
+					},
+					{
+						"QuestionCaption" : "See the Text and Wtite ",
+						"InputType" : "Text",
+						"OutputType" : "Image",
+						"Question" : [
+							"Divulge"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Divulge"
+						]
+					},
+					{
+						"QuestionCaption" : "See the Text and Wtite ",
+						"InputType" : "Text",
+						"OutputType" : "Image",
+						"Question" : [
+							"Shielding"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Shielding"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					3,
+					4
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "See the Text and Wtite",
+						"InputType" : "Text",
+						"OutputType" : "Image",
+						"Question" : [
+							"Ram likes to play with dogs"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Ram likes to play with dogs"
+						]
+					},
+					{
+						"QuestionCaption" : "See the Text and Wtite",
+						"InputType" : "Text",
+						"OutputType" : "Image",
+						"Question" : [
+							"The goat chased a flying bird"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"The goat chased a flying bird"
+						]
+					},
+					{
+						"QuestionCaption" : "See the Text and Wtite",
+						"InputType" : "Text",
+						"OutputType" : "Image",
+						"Question" : [
+							"cars went slow on the road"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"cars went slow on the road"
+						]
+					},
+					{
+						"QuestionCaption" : "See the Text and Wtite",
+						"InputType" : "Text",
+						"OutputType" : "Image",
+						"Question" : [
+							"They could not get down together"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"They could not get down together"
+						]
+					},
+					{
+						"QuestionCaption" : "See the Text and Wtite",
+						"InputType" : "Text",
+						"OutputType" : "Image",
+						"Question" : [
+							"That man has a yellow coat"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"That man has a yellow coat"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					5,
+					6
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "See the Text and Wtite",
+						"InputType" : "Text",
+						"OutputType" : "Image",
+						"Question" : [
+							"The Prime Minister's post is not a bed of reses"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"The Prime Minister's post is not a bed of reses"
+						]
+					},
+					{
+						"QuestionCaption" : "See the Text and Wtite",
+						"InputType" : "Text",
+						"OutputType" : "Image",
+						"Question" : [
+							"Wow! This place is extremely beautiful"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Wow! This place is extremely beautiful"
+						]
+					},
+					{
+						"QuestionCaption" : "See the Text and Wtite",
+						"InputType" : "Text",
+						"OutputType" : "Image",
+						"Question" : [
+							"I can't believe he has done it!"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"I can't believe he has done it! "
+						]
+					},
+					{
+						"QuestionCaption" : "See the Text and Wtite",
+						"InputType" : "Text",
+						"OutputType" : "Image",
+						"Question" : [
+							"What is your plan for next  weekend ?"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"What is your plan for next  weekend ?"
+						]
+					},
+					{
+						"QuestionCaption" : "See the Text and Wtite",
+						"InputType" : "Text",
+						"OutputType" : "Image",
+						"Question" : [
+							"What a accident that was!"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"What a accident that was!"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					7,
+					8
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "See the Text and Wtite",
+						"InputType" : "Text",
+						"OutputType" : "Image",
+						"Question" : [
+							"If you could, would you go to live on an alien planet?"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"If you could, would you go to live on an alien planet?"
+						]
+					},
+					{
+						"QuestionCaption" : "See the Text and Wtite",
+						"InputType" : "Text",
+						"OutputType" : "Image",
+						"Question" : [
+							"Bravo! our school team won the finals"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Bravo! our school team won the finals"
+						]
+					},
+					{
+						"QuestionCaption" : "See the Text and Wtite",
+						"InputType" : "Text",
+						"OutputType" : "Image",
+						"Question" : [
+							"I got 1st prize in competition"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"I got 1st prize in competition"
+						]
+					},
+					{
+						"QuestionCaption" : "See the Text and Wtite",
+						"InputType" : "Text",
+						"OutputType" : "Image",
+						"Question" : [
+							"She gave me 9 mangoes to eat"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"She gave me 9 mangoes to eat"
+						]
+					},
+					{
+						"QuestionCaption" : "See the Text and Wtite",
+						"InputType" : "Text",
+						"OutputType" : "Image",
+						"Question" : [
+							"Meena made 4 cupcakes & juice"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Meena made 4 cupcakes & juice"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					9,
+					10
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "See the Text and Wtite",
+						"InputType" : "Text",
+						"OutputType" : "Image",
+						"Question" : [
+							"So many books, so little time"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"So many books, so little time."
+						]
+					},
+					{
+						"QuestionCaption" : "See the Text and Wtite",
+						"InputType" : "Text",
+						"OutputType" : "Image",
+						"Question" : [
+							"It is never too late to be what you might have been."
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"It is never too late to be what you might have been."
+						]
+					},
+					{
+						"QuestionCaption" : "See the Text and Wtite",
+						"InputType" : "Text",
+						"OutputType" : "Image",
+						"Question" : [
+							"For every minute you are angry you lose 60 seconds of happiness."
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"For every minute you are angry you lose 60 seconds of happiness."
+						]
+					},
+					{
+						"QuestionCaption" : "See the Text and Wtite",
+						"InputType" : "Text",
+						"OutputType" : "Image",
+						"Question" : [
+							"We don't see things as they are, we see them as we are. "
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"We don't see things as they are, we see them as we are. "
+						]
+					},
+					{
+						"QuestionCaption" : "See the Text and Wtite",
+						"InputType" : "Text",
+						"OutputType" : "Image",
+						"Question" : [
+							"life is like riding a bicycle. To keep your balance, you must keep moving."
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"life is like riding a bicycle. To keep your balance, you must keep moving."
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					11,
+					12
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "See the Text and Wtite",
+						"InputType" : "Text",
+						"OutputType" : "Image",
+						"Question" : [
+							"Do one thing every day that scares you.(This will give you 100% happiness)"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Do one thing every day that scares you.(This will give you 100% happiness)"
+						]
+					},
+					{
+						"QuestionCaption" : "See the Text and Wtite",
+						"InputType" : "Text",
+						"OutputType" : "Image",
+						"Question" : [
+							"accounting: 2 pens @ $3 = #6 ; email: bob@tefi.net"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"accounting: 2 pens @ $3 = #6 ; email: bob@tefi.net"
+						]
+					},
+					{
+						"QuestionCaption" : "See the Text and Wtite",
+						"InputType" : "Text",
+						"OutputType" : "Image",
+						"Question" : [
+							"I made 5% of people run [for marathon!>"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"I made 5% of people run [for marathon!>"
+						]
+					},
+					{
+						"QuestionCaption" : "See the Text and Wtite",
+						"InputType" : "Text",
+						"OutputType" : "Image",
+						"Question" : [
+							"HTML entity: $curren; -HTML code: &#164"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"HTML entity: $curren; -HTML code: &#164"
+						]
+					},
+					{
+						"QuestionCaption" : "See the Text and Wtite",
+						"InputType" : "Text",
+						"OutputType" : "Image",
+						"Question" : [
+							"Peanuts -> walnuts = dry + fruits"
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [
+							"Peanuts -> walnuts = dry + fruits"
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"_id" : ObjectId("6304e8800988196b379bb9dc"),
+		"Category" : "Listening And Understanding",
+		"Type" : "Same Or Different",
+		"GradewiseDataSet" : [
+			{
+				"Grade" : [
+					1,
+					2
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Identify the Sound As Same Or Different ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Air-Are"
+						],
+						"Options" : [
+							"Same",
+							"Different"
+						],
+						"Answer" : [
+							"Different"
+						]
+					},
+					{
+						"QuestionCaption" : "Identify The Sound As Same Or Different",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Buy-Boy"
+						],
+						"Options" : [
+							"Same",
+							"Different"
+						],
+						"Answer" : [
+							"Different"
+						]
+					},
+					{
+						"QuestionCaption" : "Identify The Sound As Same Or Different ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Cat-Cat "
+						],
+						"Options" : [
+							"Same",
+							"Different"
+						],
+						"Answer" : [
+							"Same"
+						]
+					},
+					{
+						"QuestionCaption" : "Identify The Sound As Same Or Different ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Do-Dew"
+						],
+						"Options" : [
+							"Same",
+							"Different"
+						],
+						"Answer" : [
+							"Different"
+						]
+					},
+					{
+						"QuestionCaption" : "Identify The Sound As Same Or Different ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Ball-Ball"
+						],
+						"Options" : [
+							"Same",
+							"Different"
+						],
+						"Answer" : [
+							"Same"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					2,
+					3
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Identify The Sound As Same Or Different ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Ship-Skip"
+						],
+						"Options" : [
+							"Same",
+							"Different"
+						],
+						"Answer" : [
+							"Different"
+						]
+					},
+					{
+						"QuestionCaption" : "Identify The Sound As Same Or Different ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Bare-Bear"
+						],
+						"Options" : [
+							"Same",
+							"Different"
+						],
+						"Answer" : [
+							"Different"
+						]
+					},
+					{
+						"QuestionCaption" : "Identify The Sound As Same Or Different ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Watch-Watch"
+						],
+						"Options" : [
+							"Same",
+							"Different"
+						],
+						"Answer" : [
+							"Same"
+						]
+					},
+					{
+						"QuestionCaption" : "Identify The Sound As Same Or Different ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"plan-Plain"
+						],
+						"Options" : [
+							"Same",
+							"Different"
+						],
+						"Answer" : [
+							"Different"
+						]
+					},
+					{
+						"QuestionCaption" : "Identify The Sound As Same Or Different ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Flower-Flower"
+						],
+						"Options" : [
+							"Same",
+							"Different"
+						],
+						"Answer" : [
+							"Same"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					5,
+					6
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Identify The Sound As Same Or Different ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Author-Author"
+						],
+						"Options" : [
+							"Same",
+							"Different"
+						],
+						"Answer" : [
+							"Same"
+						]
+					},
+					{
+						"QuestionCaption" : "Identify The Sound As Same Or Different ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Tail-Tale"
+						],
+						"Options" : [
+							"Same",
+							"Different"
+						],
+						"Answer" : [
+							"Different"
+						]
+					},
+					{
+						"QuestionCaption" : "Identify The Sound As Same Or Different ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Window-Window"
+						],
+						"Options" : [
+							"Same",
+							"Different"
+						],
+						"Answer" : [
+							"Same"
+						]
+					},
+					{
+						"QuestionCaption" : "Identify The Sound As Same Or Different ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Cricket-Cricket"
+						],
+						"Options" : [
+							"Same",
+							"Different"
+						],
+						"Answer" : [
+							"Same"
+						]
+					},
+					{
+						"QuestionCaption" : "Identify The Sound As Same Or Different ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Grammar-Glamour"
+						],
+						"Options" : [
+							"Same",
+							"Different"
+						],
+						"Answer" : [
+							"Different"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					7,
+					8
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Identify The Sound As Same Or Different ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Resource-Resource"
+						],
+						"Options" : [
+							"Same",
+							"Different"
+						],
+						"Answer" : [
+							"Same"
+						]
+					},
+					{
+						"QuestionCaption" : "Identify The Sound As Same Or Different ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Whistle-Wrestle"
+						],
+						"Options" : [
+							"Same",
+							"Different"
+						],
+						"Answer" : [
+							"Different"
+						]
+					},
+					{
+						"QuestionCaption" : "Identify The Sound As Same Or Different ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"throat-Thought"
+						],
+						"Options" : [
+							"Same",
+							"Different"
+						],
+						"Answer" : [
+							"Different"
+						]
+					},
+					{
+						"QuestionCaption" : "Identify The Sound As Same Or Different ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Ability-Ability"
+						],
+						"Options" : [
+							"Same",
+							"Different"
+						],
+						"Answer" : [
+							"Same"
+						]
+					},
+					{
+						"QuestionCaption" : "Identify The Sound As Same Or Different ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Habit-Habit"
+						],
+						"Options" : [
+							"Same",
+							"Different"
+						],
+						"Answer" : [
+							"Same"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					9,
+					10
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Identify The Sound As Same Or Different ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Restore-Seashore"
+						],
+						"Options" : [
+							"Same",
+							"Different"
+						],
+						"Answer" : [
+							"Different"
+						]
+					},
+					{
+						"QuestionCaption" : "Identify The Sound As Same Or Different ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Location-Location"
+						],
+						"Options" : [
+							"Same",
+							"Different"
+						],
+						"Answer" : [
+							"Same"
+						]
+					},
+					{
+						"QuestionCaption" : "Identify The Sound As Same Or Different ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Narrator-Narrator"
+						],
+						"Options" : [
+							"Same",
+							"Different"
+						],
+						"Answer" : [
+							"Same"
+						]
+					},
+					{
+						"QuestionCaption" : "Identify The Sound As Same Or Different ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Occation-Vacation"
+						],
+						"Options" : [
+							"Same",
+							"Different"
+						],
+						"Answer" : [
+							"Different"
+						]
+					},
+					{
+						"QuestionCaption" : "Identify The Sound As Same Or Different ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Arrange-Arrange"
+						],
+						"Options" : [
+							"Same",
+							"Different"
+						],
+						"Answer" : [
+							"Same"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					11,
+					12
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Identify The Sound As Same Or Different ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Chivalrous-Chivalrous"
+						],
+						"Options" : [
+							"Same",
+							"Different"
+						],
+						"Answer" : [
+							"Same"
+						]
+					},
+					{
+						"QuestionCaption" : "Identify The Sound As Same Or Different ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Traffic-Terrific"
+						],
+						"Options" : [
+							"Same",
+							"Different"
+						],
+						"Answer" : [
+							"Different"
+						]
+					},
+					{
+						"QuestionCaption" : "Identify The Sound As Same Or Different ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Humorous-Numerous"
+						],
+						"Options" : [
+							"Same",
+							"Different"
+						],
+						"Answer" : [
+							"Different"
+						]
+					},
+					{
+						"QuestionCaption" : "Identify The Sound As Same Or Different ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Sarcastic-Sarcastic"
+						],
+						"Options" : [
+							"Same",
+							"Different"
+						],
+						"Answer" : [
+							"Same"
+						]
+					},
+					{
+						"QuestionCaption" : "Identify The Sound As Same Or Different ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Immemorial-Immemorial"
+						],
+						"Options" : [
+							"Same",
+							"Different"
+						],
+						"Answer" : [
+							"Same"
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"_id" : ObjectId("6304e8800988196b379bb9dd"),
+		"Category" : "Listening And Understanding",
+		"Type" : "Audio Comprehension",
+		"GradewiseDataSet" : [
+			{
+				"Grade" : [
+					1,
+					2
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "___ Morning",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Good Morning"
+						],
+						"Options" : [
+							"Good",
+							"Dawn",
+							"Wood"
+						],
+						"Answer" : [
+							"Good"
+						]
+					},
+					{
+						"QuestionCaption" : "___Birthday ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Happy Birthday"
+						],
+						"Options" : [
+							"Apple",
+							"Happy",
+							"Copy"
+						],
+						"Answer" : [
+							"Happy "
+						]
+					},
+					{
+						"QuestionCaption" : "Nice to ____ you",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Nice to meet you"
+						],
+						"Options" : [
+							"Eat",
+							"Mat",
+							"Meet"
+						],
+						"Answer" : [
+							"Meet"
+						]
+					},
+					{
+						"QuestionCaption" : "May I come ___?",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"May I come in?"
+						],
+						"Options" : [
+							"On",
+							"Of",
+							"In"
+						],
+						"Answer" : [
+							"In"
+						]
+					},
+					{
+						"QuestionCaption" : "My dad is my ____ hero",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"My dad is my super hero"
+						],
+						"Options" : [
+							"Super",
+							"supper",
+							"Summer"
+						],
+						"Answer" : [
+							"Super"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					3,
+					4
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Your dress ___ very nice.",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Your dress looks very nice."
+						],
+						"Options" : [
+							"Books",
+							"Looks",
+							"Tooks"
+						],
+						"Answer" : [
+							"Looks"
+						]
+					},
+					{
+						"QuestionCaption" : " Which is your favorite ___?",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							" Which is your favorite colour?"
+						],
+						"Options" : [
+							"Colon",
+							"Coller",
+							"Colour"
+						],
+						"Answer" : [
+							"Colour"
+						]
+					},
+					{
+						"QuestionCaption" : "Joe waiting for the ___.",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Joe waiting for the Train "
+						],
+						"Options" : [
+							"Brain",
+							"Drain",
+							"Train"
+						],
+						"Answer" : [
+							"Train"
+						]
+					},
+					{
+						"QuestionCaption" : "Marry Ana Samantha ___ the bus",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Marry Ana Samantha took the bus"
+						],
+						"Options" : [
+							"Look",
+							"Took",
+							"Book"
+						],
+						"Answer" : [
+							"Took"
+						]
+					},
+					{
+						"QuestionCaption" : "Bobby needs some ___.",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Bobby needs some money"
+						],
+						"Options" : [
+							"Money",
+							"Honey",
+							"Any"
+						],
+						"Answer" : [
+							"Money"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					5,
+					6
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Water freezes at ___",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Water freezes at 0°C"
+						],
+						"Options" : [
+							"100°C",
+							"0°C",
+							"20°C"
+						],
+						"Answer" : [
+							"0°C"
+						]
+					},
+					{
+						"QuestionCaption" : "My dad ____ works on the weekends",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"My dad never works on the weekends"
+						],
+						"Options" : [
+							"Ever",
+							"Our",
+							"Never"
+						],
+						"Answer" : [
+							"Never"
+						]
+					},
+					{
+						"QuestionCaption" : "You have ___ schoolwork to do",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"You have some schoolwork to do"
+						],
+						"Options" : [
+							"Small",
+							"Some",
+							"Same"
+						],
+						"Answer" : [
+							"Some"
+						]
+					},
+					{
+						"QuestionCaption" : "The train ___ in ten minutes.",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"The train leaves in ten minutes."
+						],
+						"Options" : [
+							"Leaf",
+							"Leaves",
+							"Lease"
+						],
+						"Answer" : [
+							"Leaves"
+						]
+					},
+					{
+						"QuestionCaption" : "Tomorrow early morning ___ I go to morning walk",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Tomorrow early morning first I go to morning walk"
+						],
+						"Options" : [
+							"Fast",
+							"First",
+							"Feast"
+						],
+						"Answer" : [
+							"First"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					7,
+					8
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "I and my ___ don't see each other anymore",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"I and my sister don't see each other anymore"
+						],
+						"Options" : [
+							"Sister",
+							"Scissor",
+							"Mister"
+						],
+						"Answer" : [
+							"Sister"
+						]
+					},
+					{
+						"QuestionCaption" : "You go to ___ every summer",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"You go to holiday every summer"
+						],
+						"Options" : [
+							"Wholeday",
+							"Holyday",
+							"Holiday"
+						],
+						"Answer" : [
+							"Holiday"
+						]
+					},
+					{
+						"QuestionCaption" : "It ___a lot in winter in Russia.",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"It snows a lot in winter in Russia."
+						],
+						"Options" : [
+							"Shows",
+							"Shoes",
+							"Snows"
+						],
+						"Answer" : [
+							"Snows "
+						]
+					},
+					{
+						"QuestionCaption" : "I have no money at the ___",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"I have no money at the moment"
+						],
+						"Options" : [
+							"Movement",
+							"Moment",
+							"Mount"
+						],
+						"Answer" : [
+							"Moment"
+						]
+					},
+					{
+						"QuestionCaption" : "She doesn't ___ a computer",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"She doesn't use a computer"
+						],
+						"Options" : [
+							"Used",
+							"Use",
+							"Using"
+						],
+						"Answer" : [
+							"Use"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					9,
+					10
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "A picture is ___ a thousand words.",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"A picture is worth a thousand words."
+						],
+						"Options" : [
+							"Wrath",
+							"Worth",
+							"Words"
+						],
+						"Answer" : [
+							"Worth"
+						]
+					},
+					{
+						"QuestionCaption" : "Beauty is in the ___of the beholder",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Beauty is in the eye of the beholder"
+						],
+						"Options" : [
+							"I",
+							"Eye",
+							"Ion"
+						],
+						"Answer" : [
+							"Eye "
+						]
+					},
+					{
+						"QuestionCaption" : "Don't count the chickens ___ they hatch",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Don't count the chickens before they hatch"
+						],
+						"Options" : [
+							"Before",
+							"Befold",
+							"Behold"
+						],
+						"Answer" : [
+							"Before"
+						]
+					},
+					{
+						"QuestionCaption" : "Don't ___ of your eggs in one basket. ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Don't put all of your eggs in one basket. "
+						],
+						"Options" : [
+							"Put all",
+							"Put Off",
+							"Put On"
+						],
+						"Answer" : [
+							"Put All"
+						]
+					},
+					{
+						"QuestionCaption" : "God helps those who ___ themselves",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"God helps those who help themselves"
+						],
+						"Options" : [
+							"Kelp",
+							"Help",
+							"Health"
+						],
+						"Answer" : [
+							"Help"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					11,
+					12
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "A journey of a thousand  ___ begins with a single step.",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"A journey of a thousand  miles begins with a single step."
+						],
+						"Options" : [
+							"Mails",
+							"Miles",
+							"While"
+						],
+						"Answer" : [
+							"Miles"
+						]
+					},
+					{
+						"QuestionCaption" : "If you want ____ done right, you have to do it  yourself.",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"If you want something done right, you have to do it  yourself."
+						],
+						"Options" : [
+							"Something",
+							"Nothing",
+							"Everything"
+						],
+						"Answer" : [
+							"Something"
+						]
+					},
+					{
+						"QuestionCaption" : "You can lead a horse to ___,but you can't make him drink it .",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"You can lead a horse to water,but you can't make him drink it ."
+						],
+						"Options" : [
+							"Wanted",
+							"Water",
+							"Wallet"
+						],
+						"Answer" : [
+							"Water"
+						]
+					},
+					{
+						"QuestionCaption" : "Never put off until ___what you can do today. ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Never put off until tomorrow what you can do today. "
+						],
+						"Options" : [
+							"Tomorrow",
+							"Tiptoe",
+							"Tomato"
+						],
+						"Answer" : [
+							"Tomorrow "
+						]
+					},
+					{
+						"QuestionCaption" : "You can ___ more flies with honey than with vinegar.",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"You can catch more flies with honey than with vinegar."
+						],
+						"Options" : [
+							"Hatch",
+							"Catch",
+							"Watch"
+						],
+						"Answer" : [
+							"Catch"
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"_id" : ObjectId("6304e8800988196b379bb9de"),
+		"Category" : "Listening And Understanding",
+		"Type" : "Audio Listening",
+		"GradewiseDataSet" : [
+			{
+				"Grade" : [
+					1,
+					2
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Listen To The Audio And Choose The Suitable Option",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Dog"
+						],
+						"Options" : [
+							"G1-1.png",
+							"G1-6.png"
+						],
+						"Answer" : [
+							"Dog"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen To The Audio And Choose The Suitable Option",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Tree"
+						],
+						"Options" : [
+							"G1-7.png",
+							"G1-2.png"
+						],
+						"Answer" : [
+							"Tree"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen To The Audio And Choose The Suitable Option",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Ball"
+						],
+						"Options" : [
+							"G1-3.png",
+							"G1-8.png"
+						],
+						"Answer" : [
+							"Ball"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen To The Audio And Choose The Suitable Option",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Six"
+						],
+						"Options" : [
+							"G1-9.png",
+							"G1-4.png"
+						],
+						"Answer" : [
+							"Six"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen To The Audio And Choose The Suitable Option",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Fan"
+						],
+						"Options" : [
+							"G1-5.png",
+							"G1-10.png"
+						],
+						"Answer" : [
+							"Fan"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					3,
+					4
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Listen To The Audio And Choose The Suitable Option",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Clock"
+						],
+						"Options" : [
+							"G2-1.png",
+							"G2-6.png"
+						],
+						"Answer" : [
+							"Clock"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen To The Audio And Choose The Suitable Option",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Book"
+						],
+						"Options" : [
+							"G2-7.png",
+							"G2-2.png"
+						],
+						"Answer" : [
+							"Book"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen To The Audio And Choose The Suitable Option",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Flag"
+						],
+						"Options" : [
+							"G2-8.png",
+							"G2-3.png"
+						],
+						"Answer" : [
+							"Flag"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen To The Audio And Choose The Suitable Option",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Frog"
+						],
+						"Options" : [
+							"G2-4.png",
+							"G2-9.png"
+						],
+						"Answer" : [
+							"Frog"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen To The Audio And Choose The Suitable Option",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Bone"
+						],
+						"Options" : [
+							"G2-10.png",
+							"G2-5.png"
+						],
+						"Answer" : [
+							"Bone"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					5,
+					6
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Listen To The Audio And Choose The Suitable Option",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Saturn"
+						],
+						"Options" : [
+							"G3-6.png",
+							"G3-1.png"
+						],
+						"Answer" : [
+							"Saturn"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen To The Audio And Choose The Suitable Option",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Pyramid"
+						],
+						"Options" : [
+							"G3-2.png",
+							"G3-7.png"
+						],
+						"Answer" : [
+							"Pyramid"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen To The Audio And Choose The Suitable Option",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"'Dinosaur"
+						],
+						"Options" : [
+							"G3-8.png",
+							"G3-3.png"
+						],
+						"Answer" : [
+							"Dinosaur"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen To The Audio And Choose The Suitable Option",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Taj Mahal"
+						],
+						"Options" : [
+							"G3-4.png",
+							"G3-9.png"
+						],
+						"Answer" : [
+							"Taj Mahal"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen To The Audio And Choose The Suitable Option",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"WaterFalls"
+						],
+						"Options" : [
+							"G3-10.png",
+							"G3-5.png"
+						],
+						"Answer" : [
+							"WaterFalls"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					7,
+					8
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Listen To The Audio And Choose The Suitable Option",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Industry"
+						],
+						"Options" : [
+							"Indus",
+							"Industry",
+							"Interval"
+						],
+						"Answer" : [
+							"Industry"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen To The Audio And Choose The Suitable Option",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Algae"
+						],
+						"Options" : [
+							"Algae",
+							"Apple",
+							"Angle"
+						],
+						"Answer" : [
+							"Algae"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen To The Audio And Choose The Suitable Option",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Bacteria"
+						],
+						"Options" : [
+							"Bacteria",
+							"Barrium",
+							"battery"
+						],
+						"Answer" : [
+							"Bacteria"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen To The Audio And Choose The Suitable Option",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Bullet"
+						],
+						"Options" : [
+							"Bullock",
+							"Booklet",
+							"Bullet"
+						],
+						"Answer" : [
+							"Bullet"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen To The Audio And Choose The Suitable Option",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Kidney"
+						],
+						"Options" : [
+							"Kindle",
+							"Kidney",
+							"Kindly"
+						],
+						"Answer" : [
+							"Kidney"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					9,
+					10
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Listen To The Audio And Choose The Suitable Option",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Intestine"
+						],
+						"Options" : [
+							"Industry",
+							"Indium",
+							"Intestine"
+						],
+						"Answer" : [
+							"Intestine"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen To The Audio And Choose The Suitable Option",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Microscope"
+						],
+						"Options" : [
+							"Microscope",
+							"Microphone",
+							"Micropore"
+						],
+						"Answer" : [
+							"Microscope"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen To The Audio And Choose The Suitable Option",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Laboratory"
+						],
+						"Options" : [
+							"Labour",
+							"laptop",
+							"Laboratory"
+						],
+						"Answer" : [
+							"Laboratory"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen To The Audio And Choose The Suitable Option",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Robot"
+						],
+						"Options" : [
+							"Router",
+							"Rebot",
+							"Robot"
+						],
+						"Answer" : [
+							"Robot"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen To The Audio And Choose The Suitable Option",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Skeleton"
+						],
+						"Options" : [
+							"Scale",
+							"Skeleton",
+							"Scarlett"
+						],
+						"Answer" : [
+							"Skeleton"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					11,
+					12
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Listen To The Audio And Choose The Suitable Option",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Lens"
+						],
+						"Options" : [
+							"Benz",
+							"Lens",
+							"Laze"
+						],
+						"Answer" : [
+							"Lens"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen To The Audio And Choose The Suitable Option",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Electron"
+						],
+						"Options" : [
+							"Election",
+							"Electron",
+							"Elector"
+						],
+						"Answer" : [
+							"Electron"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen To The Audio And Choose The Suitable Option",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Escalator"
+						],
+						"Options" : [
+							"Elevator",
+							"Escalator",
+							"Elector"
+						],
+						"Answer" : [
+							"Escalator"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen To The Audio And Choose The Suitable Option",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Parliament"
+						],
+						"Options" : [
+							"Partition",
+							"Partical",
+							"Parliament"
+						],
+						"Answer" : [
+							"Parliament"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen To The Audio And Choose The Suitable Option",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Spectacles"
+						],
+						"Options" : [
+							"Spectrum",
+							"Spectacles",
+							"Spectacular"
+						],
+						"Answer" : [
+							"Spectacles"
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"_id" : ObjectId("6304e8800988196b379bb9df"),
+		"Category" : "Listening And Understanding",
+		"Type" : "Riddles",
+		"GradewiseDataSet" : [
+			{
+				"Grade" : [
+					1,
+					2
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Read The Question And Select The Suitable Option",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"I am an animal; I roar; I live in jungle"
+						],
+						"Options" : [
+							"Q1-1.png",
+							"Q1-2.png",
+							"Q1-3.png"
+						],
+						"Answer" : [
+							"Lion"
+						]
+					},
+					{
+						"QuestionCaption" : "Read The Question And Select The Suitable Option",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"I  fly in sky; I am not a bird; I have wings"
+						],
+						"Options" : [
+							"Q2-1.png",
+							"Q2-2.png",
+							"Q2-3.png"
+						],
+						"Answer" : [
+							"Aeroplane"
+						]
+					},
+					{
+						"QuestionCaption" : "Read The Question And Select The Suitable Option",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"I  fly in sky; I am not a bird; I have wings"
+						],
+						"Options" : [
+							"Q3-1.png",
+							"Q3-2.png",
+							"Q3-3.png"
+						],
+						"Answer" : [
+							"Football"
+						]
+					},
+					{
+						"QuestionCaption" : "Read The Question And Select The Suitable Option",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"You sit on me I have 4 leg"
+						],
+						"Options" : [
+							"Q4-1.png",
+							"Q4-2.png",
+							"Q4-3.png"
+						],
+						"Answer" : [
+							"Chair"
+						]
+					},
+					{
+						"QuestionCaption" : "Read The Question And Select The Suitable Option",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"You wear me before wearing shoes"
+						],
+						"Options" : [
+							"Q5-1.png",
+							"Q5-2.png",
+							"Q5-3.png"
+						],
+						"Answer" : [
+							"Shocks"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					3,
+					4
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Read The Question And Select The Suitable Option",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"You have to peel me; My skin is yellow; My flesh is soft and light yellow"
+						],
+						"Options" : [
+							"Q6-1.png",
+							"Q6-2.png",
+							"Q6-3.png"
+						],
+						"Answer" : [
+							"Mango"
+						]
+					},
+					{
+						"QuestionCaption" : "Read The Question And Select The Suitable Option",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"You wear me on your head; I protect head from heating"
+						],
+						"Options" : [
+							"Q7-1.png",
+							"Q7-2.png",
+							"Q7-3.png"
+						],
+						"Answer" : [
+							"Cap"
+						]
+					},
+					{
+						"QuestionCaption" : "Read The Question And Select The Suitable Option",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"I am a bird; I have colored feathers; I can talk"
+						],
+						"Options" : [
+							"Q8-1.png",
+							"Q8-2.png",
+							"Q8-3.png"
+						],
+						"Answer" : [
+							"Parrot"
+						]
+					},
+					{
+						"QuestionCaption" : "Read The Question And Select The Suitable Option",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"I am a vegetable; I am long and orange; Rabbits like me."
+						],
+						"Options" : [
+							"Q9-1.png",
+							"Q9-2.png",
+							"Q9-3.png"
+						],
+						"Answer" : [
+							"Carrot"
+						]
+					},
+					{
+						"QuestionCaption" : "Read The Question And Select The Suitable Option",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"You hold me; write with me on paper; cannot be erased"
+						],
+						"Options" : [
+							"Q10-1.png",
+							"Q10-2.png",
+							"Q10-3.png"
+						],
+						"Answer" : [
+							"Pen"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					5,
+					6
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Read The Question And Select The Suitable Option",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"Starts with b and rhymes with dig"
+						],
+						"Options" : [
+							"Big",
+							"Bid",
+							"Bag",
+							"Lid"
+						],
+						"Answer" : [
+							"Big"
+						]
+					},
+					{
+						"QuestionCaption" : "Read The Question And Select The Suitable Option",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"Starts with P and rhymes with can "
+						],
+						"Options" : [
+							"Pan",
+							"Pad",
+							"Mad",
+							"Pat"
+						],
+						"Answer" : [
+							"Pan"
+						]
+					},
+					{
+						"QuestionCaption" : "Read The Question And Select The Suitable Option",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"Starts with L and rhymes with fog"
+						],
+						"Options" : [
+							"Log",
+							"Sog",
+							"Hog",
+							"Lop"
+						],
+						"Answer" : [
+							"Log"
+						]
+					},
+					{
+						"QuestionCaption" : "Read The Question And Select The Suitable Option",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"Starts with N and rhymes with hut"
+						],
+						"Options" : [
+							"Nut",
+							"Mut",
+							"Put",
+							"Nap"
+						],
+						"Answer" : [
+							"Nut"
+						]
+					},
+					{
+						"QuestionCaption" : "Read The Question And Select The Suitable Option",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"Starts with h and rhymes with pot "
+						],
+						"Options" : [
+							"Hot",
+							"Not",
+							"Pot",
+							"Got"
+						],
+						"Answer" : [
+							"Hot"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					7,
+					8
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Read The Question And Select The Suitable Option",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"I am a grassy place around the house and I rhyme with “card”"
+						],
+						"Options" : [
+							"Starred",
+							"Park",
+							"Yard",
+							"Sidewalk"
+						],
+						"Answer" : [
+							"Yard"
+						]
+					},
+					{
+						"QuestionCaption" : "Read The Question And Select The Suitable Option",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"I am a marine mammal; I rhyme with “eel”"
+						],
+						"Options" : [
+							"Walrus",
+							"Sea lion",
+							"Seal",
+							"Feel"
+						],
+						"Answer" : [
+							"Seal"
+						]
+					},
+					{
+						"QuestionCaption" : "Read The Question And Select The Suitable Option",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"I am the biggening of the day, I rhyme with “on”"
+						],
+						"Options" : [
+							"Morning",
+							"Dawn",
+							"Sunrise",
+							"Fawn"
+						],
+						"Answer" : [
+							"Dawn"
+						]
+					},
+					{
+						"QuestionCaption" : "Read The Question And Select The Suitable Option",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"I am a large group of people; I rhyme with “loud”"
+						],
+						"Options" : [
+							"Group",
+							"Crowd",
+							"Cloud",
+							"Mob"
+						],
+						"Answer" : [
+							"Group"
+						]
+					},
+					{
+						"QuestionCaption" : "Read The Question And Select The Suitable Option",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"I am the word used to represent twelve of something. I rhyme with “cousin” "
+						],
+						"Options" : [
+							"Couple",
+							"Yard",
+							"Frozen",
+							"Dozen"
+						],
+						"Answer" : [
+							"Dozen"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					9,
+					10
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Read The Question And Select The Suitable Option",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"There is only one word spelled wrong in the dictionary. What is it?"
+						],
+						"Options" : [
+							"Right",
+							"Wrong",
+							"lie",
+							"Left"
+						],
+						"Answer" : [
+							"Wrong"
+						]
+					},
+					{
+						"QuestionCaption" : "Read The Question And Select The Suitable Option",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"What can you catch, but not throw? "
+						],
+						"Options" : [
+							"Ball",
+							"Hair",
+							"Cold",
+							"Water"
+						],
+						"Answer" : [
+							"Cold"
+						]
+					},
+					{
+						"QuestionCaption" : "Read The Question And Select The Suitable Option",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							" What belongs to you, but other people use more?"
+						],
+						"Options" : [
+							"Your height",
+							"Your name",
+							"Your age",
+							"Your grade"
+						],
+						"Answer" : [
+							"Your Name"
+						]
+					},
+					{
+						"QuestionCaption" : "Read The Question And Select The Suitable Option",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"How many months have 28 days? "
+						],
+						"Options" : [
+							" February ",
+							"December",
+							"July",
+							"All of Month"
+						],
+						"Answer" : [
+							"All the Month"
+						]
+					},
+					{
+						"QuestionCaption" : "Read The Question And Select The Suitable Option",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							" What must be broken before you can use it? "
+						],
+						"Options" : [
+							"Rock",
+							"Egg",
+							"Brain",
+							"None of the these"
+						],
+						"Answer" : [
+							"Egg"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					11,
+					12
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Read The Question And Select The Suitable Option",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"He was a prolific writer during the Elizabethan and Jacobean ages of British theatre (sometimes called the English Renaissance)."
+						],
+						"Options" : [
+							"William Shakespeare",
+							"Charles Darvin",
+							"J. K. Rowling",
+							"T. S. Eliot"
+						],
+						"Answer" : [
+							"William shakespeare"
+						]
+					},
+					{
+						"QuestionCaption" : "Read The Question And Select The Suitable Option",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"She was an Inidan- born American astronaut and mechanical engineer who was the 1st women of Indian origin to go to space in 1997"
+						],
+						"Options" : [
+							"Sirisha Bandla",
+							"Kalpana Chawla",
+							"Swati Mohan",
+							"Nagin Cox"
+						],
+						"Answer" : [
+							"Kalpana Chawla"
+						]
+					},
+					{
+						"QuestionCaption" : "Read The Question And Select The Suitable Option",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"She is known as “the Nightingale of India” the first woman to become the governor of a state in India."
+						],
+						"Options" : [
+							"Rani lakshmi bai",
+							"Sarojini Naidu",
+							"Dr.Muthulakshmi Reddy",
+							"Kuyili"
+						],
+						"Answer" : [
+							"Sarojini Naidu"
+						]
+					},
+					{
+						"QuestionCaption" : "Read The Question And Select The Suitable Option",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"He was an Indian physicist who won the Nobel Prize for Physics in 1930 for his discovery of what became known as the Raman effect"
+						],
+						"Options" : [
+							"C.V. Raman",
+							"Venkatraman Ramakrishnan",
+							"Satyendra Nath Bose",
+							"Ashoke Sen"
+						],
+						"Answer" : [
+							"C.V. Raman"
+						]
+					},
+					{
+						"QuestionCaption" : "Read The Question And Select The Suitable Option",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"He was an Indian aerospace scientist and served as the 11th President of India from 2002 to 2007"
+						],
+						"Options" : [
+							"B. N. Suresh",
+							"Kalpana Chawla",
+							"Subbiah Arunan",
+							"Dr.A.P.J Abdul Kalam"
+						],
+						"Answer" : [
+							"Dr.A.P.J Abdul Kalam"
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"_id" : ObjectId("6304e8800988196b379bb9e0"),
+		"Category" : "Listening And Understanding",
+		"Type" : "Familiar sounds",
+		"GradewiseDataSet" : [
+			{
+				"Grade" : [
+					1,
+					2
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Listen To the Audio And Select The Suitable Option ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Bell"
+						],
+						"Options" : [
+							"G1-1.png",
+							"G1-6.png"
+						],
+						"Answer" : [
+							"Bell"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen To the Audio And Select The Suitable Option ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Clap"
+						],
+						"Options" : [
+							"G1-7.png",
+							"G1-2.png"
+						],
+						"Answer" : [
+							"clap"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen To the Audio And Select The Suitable Option ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Dog"
+						],
+						"Options" : [
+							"G1-3.png",
+							"G1-8.png"
+						],
+						"Answer" : [
+							"Dog"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen To the Audio And Select The Suitable Option ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Cat"
+						],
+						"Options" : [
+							"Q1-4.png",
+							"Q1-9.png"
+						],
+						"Answer" : [
+							"Cat"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen To the Audio And Select The Suitable Option ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Crow"
+						],
+						"Options" : [
+							"Q1-10.png",
+							"Q1-5.png"
+						],
+						"Answer" : [
+							"Crow"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					3,
+					4
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Listen To the Audio And Select The Suitable Option ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Frog"
+						],
+						"Options" : [
+							"G2-1.png",
+							"G2-6.png"
+						],
+						"Answer" : [
+							"Frog"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen To the Audio And Select The Suitable Option ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Parrot"
+						],
+						"Options" : [
+							"G2-7.png",
+							"G2-2.png"
+						],
+						"Answer" : [
+							"Parrot"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen To the Audio And Select The Suitable Option ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Duck"
+						],
+						"Options" : [
+							"G2-3.png",
+							"G2-8.png"
+						],
+						"Answer" : [
+							"Duck"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen To the Audio And Select The Suitable Option ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Clock"
+						],
+						"Options" : [
+							"G2-9.png",
+							"G2-4.png"
+						],
+						"Answer" : [
+							"Clock"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen To the Audio And Select The Suitable Option ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Lion"
+						],
+						"Options" : [
+							"G2-5.png",
+							"G2-10.png"
+						],
+						"Answer" : [
+							"Lion"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					5,
+					6
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Listen To the Audio And Select The Suitable Option ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Horn"
+						],
+						"Options" : [
+							"Q3-1.png",
+							"Q3-6.png"
+						],
+						"Answer" : [
+							"Horn"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen To the Audio And Select The Suitable Option ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Baby"
+						],
+						"Options" : [
+							"Q3-7.png",
+							"Q3-2.png"
+						],
+						"Answer" : [
+							"Baby"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen To the Audio And Select The Suitable Option ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Elephant"
+						],
+						"Options" : [
+							"Q3-3.png",
+							"Q3-8.png"
+						],
+						"Answer" : [
+							"Elephant"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen To the Audio And Select The Suitable Option ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Tiger"
+						],
+						"Options" : [
+							"Q3-9.png",
+							"Q3-4.png"
+						],
+						"Answer" : [
+							"Tiger"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen To the Audio And Select The Suitable Option ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"peacock"
+						],
+						"Options" : [
+							"Q3-5.png",
+							"Q3-10.png"
+						],
+						"Answer" : [
+							"peacock"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					7,
+					8
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Listen To the Audio And Select The Suitable Option ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Cock"
+						],
+						"Options" : [
+							"Hen",
+							"Cock",
+							"Crow"
+						],
+						"Answer" : [
+							"Cock"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen To the Audio And Select The Suitable Option",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Wind"
+						],
+						"Options" : [
+							"Wind",
+							"Water Falls",
+							"Rain"
+						],
+						"Answer" : [
+							"Wind"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen To the Audio And Select The Suitable Option ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Whistle"
+						],
+						"Options" : [
+							"Whistle",
+							"Flute",
+							"Drum"
+						],
+						"Answer" : [
+							"Whistle"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen To the Audio And The Select the Suitable Option",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Train"
+						],
+						"Options" : [
+							"Car",
+							"Bus",
+							"Train"
+						],
+						"Answer" : [
+							"Train"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen To the Audio And Select The Suitable Option ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Rain"
+						],
+						"Options" : [
+							"Rain",
+							"Thunder",
+							"Wind"
+						],
+						"Answer" : [
+							"Rain"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					9,
+					10
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Listen To the Audio And Select The Suitable Option ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Thunder"
+						],
+						"Options" : [
+							"Lightening",
+							"Thunder",
+							"Drum"
+						],
+						"Answer" : [
+							"Thunder"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen To the Audio And Select The Suitable Option ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Coin"
+						],
+						"Options" : [
+							"Glass",
+							"Coin",
+							"vessels"
+						],
+						"Answer" : [
+							"Coin"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen To the Audio And Select The Suitable Option ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Flute"
+						],
+						"Options" : [
+							"violin",
+							"Guitar",
+							"Flute"
+						],
+						"Answer" : [
+							"Flute"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen To the Audio And Select The Suitable Option ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Camera"
+						],
+						"Options" : [
+							"Bird",
+							"Camera",
+							"Glass"
+						],
+						"Answer" : [
+							"Camera"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen To the Audio And Select The Suitable Option ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Cooker"
+						],
+						"Options" : [
+							"mixer Grainder",
+							"Cooker",
+							"vessels"
+						],
+						"Answer" : [
+							"Cooker"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					11,
+					12
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Listen To the Audio And Select The Suitable Option ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Sprayer"
+						],
+						"Options" : [
+							"Sprayer",
+							"WaterFalls",
+							"Rain"
+						],
+						"Answer" : [
+							"Sprayer"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen To the Audio And Select The Suitable Option ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Piano"
+						],
+						"Options" : [
+							"violin",
+							"Flute",
+							"Veena"
+						],
+						"Answer" : [
+							"Piano"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen To the Audio And Select The Suitable Option ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Glass"
+						],
+						"Options" : [
+							"Wind",
+							"Glass",
+							"Water"
+						],
+						"Answer" : [
+							"Glass"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen To the Audio And Select The Suitable Option ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Keyboard"
+						],
+						"Options" : [
+							"Mouse",
+							"Footstep",
+							"Keyboard"
+						],
+						"Answer" : [
+							"KeyBoard"
+						]
+					},
+					{
+						"QuestionCaption" : "Listen To the Audio And Select The Suitable Option ",
+						"InputType" : "Audio",
+						"OutputType" : "Options",
+						"Question" : [
+							"Sea waves"
+						],
+						"Options" : [
+							"Sea Waves",
+							"Rain",
+							"Wind"
+						],
+						"Answer" : [
+							"Sea Waves"
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"_id" : ObjectId("6304e8800988196b379bb9e1"),
+		"Category" : "Problem Solving",
+		"Type" : "Sequence Problem",
+		"GradewiseDataSet" : [
+			{
+				"Grade" : [
+					1,
+					2
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Sequence the Images in Order",
+						"InputType" : "Image",
+						"OutputType" : "Order",
+						"Question" : [
+							"Q1-1.png",
+							"Q1-2.png",
+							"Q1-3.png"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Q1-1.png",
+							"Q1-2.png",
+							"Q1-3.png"
+						]
+					},
+					{
+						"QuestionCaption" : "Sequence the Images in Order",
+						"InputType" : "Image",
+						"OutputType" : "Order",
+						"Question" : [
+							"Q2-1.png",
+							"Q2-2.png",
+							"Q2-3.png"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Q2-1.png",
+							"Q2-2.png",
+							"Q2-3.png"
+						]
+					},
+					{
+						"QuestionCaption" : "Sequence the Images in Order",
+						"InputType" : "Image",
+						"OutputType" : "Order",
+						"Question" : [
+							"Q3-1.png",
+							"Q3-2.png",
+							"Q3-3.png"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Q3-1.png",
+							"Q3-2.png",
+							"Q3-3.png"
+						]
+					},
+					{
+						"QuestionCaption" : "Sequence the Images in Order",
+						"InputType" : "Image",
+						"OutputType" : "Order",
+						"Question" : [
+							"Q4-1.png",
+							"Q4-2.png",
+							"Q4-3.png"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Q4-1.png",
+							"Q4-2.png",
+							"Q4-3.png"
+						]
+					},
+					{
+						"QuestionCaption" : "Sequence the Images in Order",
+						"InputType" : "Image",
+						"OutputType" : "Order",
+						"Question" : [
+							"Q5-1.png",
+							"Q5-2.png",
+							"Q5-3.png"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Q5-1.png",
+							"Q5-2.png",
+							"Q5-3.png"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					3,
+					4
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Sequence the Images in Order",
+						"InputType" : "Image",
+						"OutputType" : "Order",
+						"Question" : [
+							"Q6-1.png",
+							"Q6-2.png",
+							"Q6-3.png",
+							"Q6-4.png"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Q6-1.png",
+							"Q6-2.png",
+							"Q6-3.png",
+							"Q6-4.png"
+						]
+					},
+					{
+						"QuestionCaption" : "Sequence the Images in Order",
+						"InputType" : "Image",
+						"OutputType" : "Order",
+						"Question" : [
+							"Q7-1.png",
+							"Q7-2.png",
+							"Q7-3.png",
+							"Q7-4.png"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Q7-1.png",
+							"Q7-2.png",
+							"Q7-3.png",
+							"Q7-4.png"
+						]
+					},
+					{
+						"QuestionCaption" : "Sequence the Images in Order",
+						"InputType" : "Image",
+						"OutputType" : "Order",
+						"Question" : [
+							"Q8-1.png",
+							"Q8-2.png",
+							"Q8-3.png",
+							"Q8-4.png"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Q8-1.png",
+							"Q8-2.png",
+							"Q8-3.png",
+							"Q8-4.png"
+						]
+					},
+					{
+						"QuestionCaption" : "Sequence the Images in Order",
+						"InputType" : "Image",
+						"OutputType" : "Order",
+						"Question" : [
+							"Q9-1.png",
+							"Q9-2.png",
+							"Q9-3.png",
+							"Q9-4.png"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Q9-1.png",
+							"Q9-2.png",
+							"Q9-3.png",
+							"Q9-4.png"
+						]
+					},
+					{
+						"QuestionCaption" : "Sequence the Images in Order",
+						"InputType" : "Image",
+						"OutputType" : "Order",
+						"Question" : [
+							"Q10-1.png",
+							"Q10-2.png",
+							"Q10-3.png",
+							"Q10-4.png"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Q10-1.png",
+							"Q10-2.png",
+							"Q10-3.png",
+							"Q10-4.png"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					5,
+					6
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Sequence the Images in Order",
+						"InputType" : "Image",
+						"OutputType" : "Order",
+						"Question" : [
+							"Q11-1.png",
+							"Q11-2.png",
+							"Q11-3.png",
+							"Q11-4.png",
+							"Q11-5.png"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Q11-1.png",
+							"Q11-2.png",
+							"Q11-3.png",
+							"Q11-4.png",
+							"Q11-5.png"
+						]
+					},
+					{
+						"QuestionCaption" : "Sequence the Images in Order",
+						"InputType" : "Image",
+						"OutputType" : "Order",
+						"Question" : [
+							"Q12-1.png",
+							"Q12-2.png",
+							"Q12-3.png",
+							"Q12-4.png",
+							"Q12-5.png",
+							"Q12-6.png"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Q12-1.png",
+							"Q12-2.png",
+							"Q12-3.png",
+							"Q12-4.png",
+							"Q12-5.png",
+							"Q12-6.png"
+						]
+					},
+					{
+						"QuestionCaption" : "Sequence the Images in Order",
+						"InputType" : "Image",
+						"OutputType" : "Order",
+						"Question" : [
+							"Q13-1.png",
+							"Q13-2.png",
+							"Q13-3.png",
+							"Q13-4.png",
+							"Q13-5.png",
+							"Q13-6.png"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Q13-1.png",
+							"Q13-2.png",
+							"Q13-3.png",
+							"Q13-4.png",
+							"Q13-5.png",
+							"Q13-6.png"
+						]
+					},
+					{
+						"QuestionCaption" : "Sequence the Images in Order",
+						"InputType" : "Image",
+						"OutputType" : "Order",
+						"Question" : [
+							"Q14-1.png",
+							"Q14-2.png",
+							"Q14-3.png",
+							"Q14-4.png",
+							"Q14-5.png",
+							"Q14-6.png"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Q14-1.png",
+							"Q14-2.png",
+							"Q14-3.png",
+							"Q14-4.png",
+							"Q14-5.png",
+							"Q14-6.png"
+						]
+					},
+					{
+						"QuestionCaption" : "Sequence the Images in Order",
+						"InputType" : "Image",
+						"OutputType" : "Order",
+						"Question" : [
+							"Q15-1.png",
+							"Q15-2.png",
+							"Q15-3.png",
+							"Q15-4.png",
+							"Q15-5.png",
+							"Q15-6.png"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Q15-1.png",
+							"Q15-2.png",
+							"Q15-3.png",
+							"Q15-4.png",
+							"Q15-5.png",
+							"Q15-6.png"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					7,
+					8
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Sequence the Images in Order",
+						"InputType" : "Image",
+						"OutputType" : "Order",
+						"Question" : [
+							"Q16-1.png",
+							"Q16-2.png",
+							"Q16-3.png",
+							"Q16-4.png",
+							"Q16-5.png"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Q16-1.png",
+							"Q16-2.png",
+							"Q16-3.png",
+							"Q16-4.png",
+							"Q16-5.png"
+						]
+					},
+					{
+						"QuestionCaption" : "Sequence the Images in Order",
+						"InputType" : "Image",
+						"OutputType" : "Order",
+						"Question" : [
+							"Q17-1.png",
+							"Q17-2.png",
+							"Q17-3.png",
+							"Q17-4.png"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Q17-1.png",
+							"Q17-2.png",
+							"Q17-3.png",
+							"Q17-4.png"
+						]
+					},
+					{
+						"QuestionCaption" : "Sequence the Images in Order",
+						"InputType" : "Image",
+						"OutputType" : "Order",
+						"Question" : [
+							"Q18-1.png",
+							"Q18-2.png",
+							"Q18-3.png",
+							"Q18-4.png",
+							"Q18-5.png"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Q18-1.png",
+							"Q18-2.png",
+							"Q18-3.png",
+							"Q18-4.png",
+							"Q18-5.png"
+						]
+					},
+					{
+						"QuestionCaption" : "Sequence the Images in Order",
+						"InputType" : "Image",
+						"OutputType" : "Order",
+						"Question" : [
+							"Q19-1.png",
+							"Q19-2.png",
+							"Q19-3.png",
+							"Q19-4.png"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Q19-1.png",
+							"Q19-2.png",
+							"Q19-3.png",
+							"Q19-4.png"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					9,
+					10
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Rearrange the jumbled words to meaningful sentences",
+						"InputType" : "Text",
+						"OutputType" : "Order",
+						"Question" : [
+							"to",
+							"her",
+							"all",
+							"friends",
+							"birthday",
+							"next week",
+							"party",
+							"she is inviting"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"she is inviting",
+							"all",
+							"friends",
+							"to",
+							"her",
+							"birthday",
+							"party",
+							"next week"
+						]
+					},
+					{
+						"QuestionCaption" : "Rearrange the jumbled words to meaningful sentences",
+						"InputType" : "Text",
+						"OutputType" : "Order",
+						"Question" : [
+							"lake",
+							"is",
+							"for",
+							"the",
+							"popular",
+							"boating",
+							"and swimming"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"the",
+							"lake",
+							"is",
+							"popular",
+							"for",
+							"boating",
+							"and",
+							"swimming"
+						]
+					},
+					{
+						"QuestionCaption" : "Rearrange the jumbled words to meaningful sentences",
+						"InputType" : "Text",
+						"OutputType" : "Order",
+						"Question" : [
+							"baking",
+							"powder",
+							"dough",
+							"with",
+							"flour",
+							"make",
+							"butter",
+							"eggs",
+							"and",
+							"soft"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"butter",
+							"eggs",
+							"and",
+							"baking",
+							"powder",
+							"with",
+							"flour",
+							"make",
+							"soft",
+							"dough"
+						]
+					},
+					{
+						"QuestionCaption" : "Rearrange the jumbled words to meaningful sentences",
+						"InputType" : "Text",
+						"OutputType" : "Order",
+						"Question" : [
+							"oil",
+							"was found",
+							"in the 1960s",
+							"north sea",
+							"the",
+							"under"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"oil",
+							"was found",
+							"under",
+							"the",
+							"north sea",
+							"in the 1960s"
+						]
+					},
+					{
+						"QuestionCaption" : "Rearrange the jumbled words to meaningful sentences",
+						"InputType" : "Text",
+						"OutputType" : "Order",
+						"Question" : [
+							"fly",
+							"to escape",
+							"south",
+							"starvation",
+							"to",
+							"chill",
+							"and",
+							"they"
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"they",
+							"fly",
+							"to",
+							"south",
+							"to escape",
+							"chill",
+							"and",
+							"starvation"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					11,
+					12
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Rearrange the jumbled sentence to meaningful scenario",
+						"InputType" : "Text",
+						"OutputType" : "Order",
+						"Question" : [
+							"We decided to have a special morning assembly and a cultural programme in the last two periods.",
+							"I have been chosen to be the Head Boy of my school.",
+							"I was given the responsibility of organising the Children’s Day programme in the school.",
+							"I had a meeting with the members of the Students’ Council to decide the programme."
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"I have been chosen to be the Head Boy of my school.",
+							"I was given the responsibility of organising the Children’s Day programme in the school.",
+							"I had a meeting with the members of the Students’ Council to decide the programme.",
+							"We decided to have a special morning assembly and a cultural programme in the last two periods."
+						]
+					},
+					{
+						"QuestionCaption" : "Rearrange the jumbled words to meaningful sentences",
+						"InputType" : "Text",
+						"OutputType" : "Order",
+						"Question" : [
+							"There was once a king in India who died leaving behind three sons.",
+							"The eldest of the three sons would have become the king after his father.",
+							"But the captain of the king’s army wanted the kingdom for himself.",
+							"So he drove the three sons away."
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"There was once a king in India who died leaving behind three sons.",
+							"The eldest of the three sons would have become the king after his father.",
+							"But the captain of the king’s army wanted the kingdom for himself.",
+							"So he drove the three sons away."
+						]
+					},
+					{
+						"QuestionCaption" : "Rearrange the jumbled words to meaningful sentences",
+						"InputType" : "Text",
+						"OutputType" : "Order",
+						"Question" : [
+							"Wheat seeds are planted in October.",
+							"They grow to about 8” height by December.",
+							"At this time in December, they need watering.",
+							"Special arrangements are made to water the wheat plants in winter."
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Wheat seeds are planted in October.",
+							"They grow to about 8” height by December.",
+							"At this time in December, they need watering.",
+							"Special arrangements are made to water the wheat plants in winter."
+						]
+					},
+					{
+						"QuestionCaption" : "Rearrange the jumbled words to meaningful sentences",
+						"InputType" : "Text",
+						"OutputType" : "Order",
+						"Question" : [
+							"Ashoka was born in the ruling Maurya family of Magadha.",
+							"He had many brothers.",
+							"When the old king died, there was fighting between the brothers for the throne.",
+							"Ashoka was able to defeat his brothers."
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Ashoka was born in the ruling Maurya family of Magadha.",
+							"He had many brothers.",
+							"When the old king died, there was fighting between the brothers for the throne.",
+							"Ashoka was able to defeat his brothers."
+						]
+					},
+					{
+						"QuestionCaption" : "Rearrange the jumbled words to meaningful sentences",
+						"InputType" : "Text",
+						"OutputType" : "Order",
+						"Question" : [
+							"Mahatma Gandhi is called the Father of the Nation.",
+							"He is called so because he led India to freedom from British rule.",
+							"He started fighting for India’s freedom after he returned from South Africa.",
+							"The first cause that he took up was of an indigo farmer of Champaran, Bihar."
+						],
+						"Options" : [ ],
+						"Answer" : [
+							"Mahatma Gandhi is called the Father of the Nation.",
+							"He is called so because he led India to freedom from British rule.",
+							"He started fighting for India’s freedom after he returned from South Africa.",
+							"The first cause that he took up was of an indigo farmer of Champaran, Bihar."
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"_id" : ObjectId("6304e8800988196b379bb9e2"),
+		"Category" : "Maths",
+		"Type" : "NormalCalculations",
+		"GradewiseDataSet" : [
+			{
+				"Grade" : [
+					1,
+					2
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Perform Addition Operation",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"5 + 7 = __"
+						],
+						"Options" : [
+							"10",
+							"11",
+							"12",
+							"13"
+						],
+						"Answer" : [
+							12
+						]
+					},
+					{
+						"QuestionCaption" : "Subtract The Following",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"13 - 5 =__"
+						],
+						"Options" : [
+							"6",
+							"7",
+							"8",
+							"9"
+						],
+						"Answer" : [
+							8
+						]
+					},
+					{
+						"QuestionCaption" : "Play With Multiplication",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"2 * 8 = __"
+						],
+						"Options" : [
+							"14",
+							"15",
+							"16",
+							"17"
+						],
+						"Answer" : [
+							16
+						]
+					},
+					{
+						"QuestionCaption" : "Division",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"10 / 2 = __"
+						],
+						"Options" : [
+							"4",
+							"5",
+							"6",
+							"1"
+						],
+						"Answer" : [
+							5
+						]
+					},
+					{
+						"QuestionCaption" : "Perform Addition Operation",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"12 + 2 = __"
+						],
+						"Options" : [
+							"11",
+							"12",
+							"13",
+							"14"
+						],
+						"Answer" : [
+							14
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					3,
+					4
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Perform Addition Operation",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"25 + 10 =__"
+						],
+						"Options" : [
+							"25",
+							"35",
+							"40",
+							"30"
+						],
+						"Answer" : [
+							35
+						]
+					},
+					{
+						"QuestionCaption" : "Subtract The Following",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"35 - 12 =__"
+						],
+						"Options" : [
+							"22",
+							"23",
+							"24",
+							"25"
+						],
+						"Answer" : [
+							23
+						]
+					},
+					{
+						"QuestionCaption" : "Play With Multiplication",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"20 * 5 = __"
+						],
+						"Options" : [
+							"10",
+							"25",
+							"100",
+							"1000"
+						],
+						"Answer" : [
+							100
+						]
+					},
+					{
+						"QuestionCaption" : "Division",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"200 / 5 = __"
+						],
+						"Options" : [
+							"30",
+							"40",
+							"20",
+							"45"
+						],
+						"Answer" : [
+							40
+						]
+					},
+					{
+						"QuestionCaption" : "Play With Multiplication",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"63 / 7 = __"
+						],
+						"Options" : [
+							"6",
+							"7",
+							"9",
+							"8"
+						],
+						"Answer" : [
+							9
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					5,
+					6
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Perform Addition Operation",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"563 + 563 =__"
+						],
+						"Options" : [
+							"1123",
+							"1126",
+							"1125",
+							"1025"
+						],
+						"Answer" : [
+							1126
+						]
+					},
+					{
+						"QuestionCaption" : "Subtract The Following",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"560 - 200 =__"
+						],
+						"Options" : [
+							"300",
+							"350",
+							"360",
+							"320"
+						],
+						"Answer" : [
+							360
+						]
+					},
+					{
+						"QuestionCaption" : "Play With Multiplication",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"363* 5 = __"
+						],
+						"Options" : [
+							"1050",
+							"1215",
+							"1610",
+							"1815"
+						],
+						"Answer" : [
+							1815
+						]
+					},
+					{
+						"QuestionCaption" : "Division",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"2500 / 5 = __"
+						],
+						"Options" : [
+							"100",
+							"250",
+							"500",
+							"50"
+						],
+						"Answer" : [
+							500
+						]
+					},
+					{
+						"QuestionCaption" : "Subtract The Following",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"963 - 250 = __"
+						],
+						"Options" : [
+							"710",
+							"711",
+							"712",
+							"713"
+						],
+						"Answer" : [
+							713
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					7,
+					8
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Perform Addition Operation",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"14256 + 1256 =__"
+						],
+						"Options" : [
+							"14112",
+							"15512",
+							"15222",
+							"14563"
+						],
+						"Answer" : [
+							15512
+						]
+					},
+					{
+						"QuestionCaption" : "Subtract The Following",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"423 - 852 =__"
+						],
+						"Options" : [
+							"427",
+							"-427",
+							"456",
+							"-456"
+						],
+						"Answer" : [
+							"-427"
+						]
+					},
+					{
+						"QuestionCaption" : "Play With Multiplication",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"568 * 255 = __"
+						],
+						"Options" : [
+							"154680",
+							"156890",
+							"144840",
+							"102535"
+						],
+						"Answer" : [
+							144840
+						]
+					},
+					{
+						"QuestionCaption" : "Division",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"750 / 15= __"
+						],
+						"Options" : [
+							"500",
+							"50",
+							"25",
+							"15"
+						],
+						"Answer" : [
+							50
+						]
+					},
+					{
+						"QuestionCaption" : "Division",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"455 / 5 = __"
+						],
+						"Options" : [
+							"91",
+							"92",
+							"90",
+							"88"
+						],
+						"Answer" : [
+							91
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					9,
+					10
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Perform Addition Operation",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"450.2 + 320.6 =__"
+						],
+						"Options" : [
+							"700.2",
+							"702.903",
+							"602.903",
+							"770.8"
+						],
+						"Answer" : [
+							770.8
+						]
+					},
+					{
+						"QuestionCaption" : "Subtract The Following",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"11546 - 8456 =__"
+						],
+						"Options" : [
+							"3070",
+							"3080",
+							"3090",
+							"2090"
+						],
+						"Answer" : [
+							"3090"
+						]
+					},
+					{
+						"QuestionCaption" : "Play With Multiplication",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							" 639.6 * 727 = __"
+						],
+						"Options" : [
+							"46489.92",
+							"464989.2",
+							"46589.4",
+							"456814.9"
+						],
+						"Answer" : [
+							464989.2
+						]
+					},
+					{
+						"QuestionCaption" : "Division",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"598.36 / 59 = __"
+						],
+						"Options" : [
+							"9.14",
+							"10.11",
+							"10.14",
+							"10.16"
+						],
+						"Answer" : [
+							10.14
+						]
+					},
+					{
+						"QuestionCaption" : "Play With Multiplication",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"963 * 852 = __"
+						],
+						"Options" : [
+							"820459",
+							"840476",
+							"820476",
+							"854762"
+						],
+						"Answer" : [
+							820476
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					11,
+					12
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Perform Addition Operation",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"29x + 36x =__"
+						],
+						"Options" : [
+							"56x",
+							"65x",
+							"39x",
+							"76x"
+						],
+						"Answer" : [
+							"65x"
+						]
+					},
+					{
+						"QuestionCaption" : "Subtract The Following",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"972.263 - 369.36 =__"
+						],
+						"Options" : [
+							"702.903",
+							"589.562",
+							"602.903",
+							"854.475"
+						],
+						"Answer" : [
+							"602.903"
+						]
+					},
+					{
+						"QuestionCaption" : "Play With Multiplication",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"1542 * 56 = __"
+						],
+						"Options" : [
+							"85256",
+							"86554",
+							"81456",
+							"86352"
+						],
+						"Answer" : [
+							86352
+						]
+					},
+					{
+						"QuestionCaption" : "Division",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"5649 / 96= __"
+						],
+						"Options" : [
+							"56.84",
+							"57.84",
+							"58.84",
+							"59.84"
+						],
+						"Answer" : [
+							"58.84"
+						]
+					},
+					{
+						"QuestionCaption" : "Division",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"2036.36 / 6 = __"
+						],
+						"Options" : [
+							"339.36",
+							"339.39",
+							"320.41",
+							"336.39"
+						],
+						"Answer" : [
+							339.39
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"_id" : ObjectId("6304e8800988196b379bb9e3"),
+		"Category" : "Maths",
+		"Type" : "MissingNumbers",
+		"GradewiseDataSet" : [
+			{
+				"Grade" : [
+					1,
+					2
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Fill In The Missing Numbers",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"1, 2, 3, __, 5 "
+						],
+						"Options" : [
+							"6",
+							"4",
+							"5",
+							"7"
+						],
+						"Answer" : [
+							4
+						]
+					},
+					{
+						"QuestionCaption" : "Fill In The Missing Numbers",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"19, 20, __, 22, 23 "
+						],
+						"Options" : [
+							"21",
+							"31",
+							"10",
+							"18"
+						],
+						"Answer" : [
+							21
+						]
+					},
+					{
+						"QuestionCaption" : "Fill In The Missing Numbers",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"14, 15, 16, __, 18 "
+						],
+						"Options" : [
+							"18",
+							"17",
+							"16,",
+							"15"
+						],
+						"Answer" : [
+							17
+						]
+					},
+					{
+						"QuestionCaption" : "Fill In The Missing Numbers",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"31, 32, 33, __, 35"
+						],
+						"Options" : [
+							"33",
+							"34",
+							"35",
+							"36"
+						],
+						"Answer" : [
+							34
+						]
+					},
+					{
+						"QuestionCaption" : "Fill In The Missing Numbers",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"40, __, 42, 43, 44 "
+						],
+						"Options" : [
+							"40",
+							"42",
+							"40",
+							"41"
+						],
+						"Answer" : [
+							41
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					3,
+					4
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Fill In The Missing Numbers",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"2, 4, 6, __, 10"
+						],
+						"Options" : [
+							"4",
+							"8",
+							"12",
+							"10"
+						],
+						"Answer" : [
+							8
+						]
+					},
+					{
+						"QuestionCaption" : "Fill In The Missing Numbers",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"4, 8, 12, __, 20"
+						],
+						"Options" : [
+							"14",
+							"16",
+							"18",
+							"10"
+						],
+						"Answer" : [
+							16
+						]
+					},
+					{
+						"QuestionCaption" : "Fill In The Missing Numbers",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"__, 10, 15, 20 "
+						],
+						"Options" : [
+							"15",
+							"5",
+							"25",
+							"10"
+						],
+						"Answer" : [
+							5
+						]
+					},
+					{
+						"QuestionCaption" : "Fill In The Missing Numbers",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"20, 40, __, 80, 100"
+						],
+						"Options" : [
+							"50",
+							"60",
+							"70",
+							"65"
+						],
+						"Answer" : [
+							60
+						]
+					},
+					{
+						"QuestionCaption" : "Fill In The Missing Numbers",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"12, 24, __, 48, 60 "
+						],
+						"Options" : [
+							"26",
+							"36",
+							"46",
+							"56"
+						],
+						"Answer" : [
+							36
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					5,
+					6
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Fill In The Missing Numbers",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"2, 4, 12, 48, 240, __ "
+						],
+						"Options" : [
+							"1140",
+							"1240",
+							"1340",
+							"1440"
+						],
+						"Answer" : [
+							1440
+						]
+					},
+					{
+						"QuestionCaption" : "Fill In The Missing Numbers",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							" 10, 5, 13, 10, 16, 20, 19, __"
+						],
+						"Options" : [
+							"30",
+							"40",
+							"50",
+							"60"
+						],
+						"Answer" : [
+							40
+						]
+					},
+					{
+						"QuestionCaption" : "Fill In The Missing Numbers",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							" 2, 6, 12, 20, 30, 42, 56, __"
+						],
+						"Options" : [
+							"62",
+							"72",
+							"70",
+							"52"
+						],
+						"Answer" : [
+							72
+						]
+					},
+					{
+						"QuestionCaption" : "Fill In The Missing Numbers",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							" 11, 13, 17, 19, 23, 29, 31, 37, 41, __"
+						],
+						"Options" : [
+							"43",
+							"47",
+							"42",
+							"45"
+						],
+						"Answer" : [
+							43
+						]
+					},
+					{
+						"QuestionCaption" : "Fill In The Missing Numbers",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"8, 24, 12, 36, 18, 54, __ "
+						],
+						"Options" : [
+							"21",
+							"25",
+							"27",
+							"29"
+						],
+						"Answer" : [
+							27
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					7,
+					8
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Fill In The Missing Numbers",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"4, -8, 16, -32, 64, __ "
+						],
+						"Options" : [
+							"128",
+							"126",
+							"-126",
+							"-128"
+						],
+						"Answer" : [
+							"-128"
+						]
+					},
+					{
+						"QuestionCaption" : "Fill In The Missing Numbers",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"7, 26, 63, 124, 215, 342, __"
+						],
+						"Options" : [
+							"510",
+							"425",
+							"511",
+							"695"
+						],
+						"Answer" : [
+							511
+						]
+					},
+					{
+						"QuestionCaption" : "Fill In The Missing Numbers",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							" 15, 31, 63, 127, 255, __"
+						],
+						"Options" : [
+							"513",
+							"523",
+							"511",
+							"517"
+						],
+						"Answer" : [
+							511
+						]
+					},
+					{
+						"QuestionCaption" : "Fill In The Missing Numbers",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"1, 8, 27, 64, 125, 216, __ "
+						],
+						"Options" : [
+							"354",
+							"343",
+							"392",
+							"245"
+						],
+						"Answer" : [
+							343
+						]
+					},
+					{
+						"QuestionCaption" : "Fill In The Missing Numbers",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"5, 10, 13, 26, 29, 58, 61, __ "
+						],
+						"Options" : [
+							"122",
+							"64",
+							"125",
+							"128"
+						],
+						"Answer" : [
+							122
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					9,
+					10
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Fill In The Missing Numbers",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							" 8, 28, 48, ___ , 88"
+						],
+						"Options" : [
+							"58",
+							"68",
+							"78",
+							"98"
+						],
+						"Answer" : [
+							68
+						]
+					},
+					{
+						"QuestionCaption" : "Fill In The Missing Numbers",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"12, 17, 22, 27, 32,  ___"
+						],
+						"Options" : [
+							"36",
+							"37",
+							"39",
+							"41"
+						],
+						"Answer" : [
+							37
+						]
+					},
+					{
+						"QuestionCaption" : "Fill In The Missing Numbers",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							" "
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [ ]
+					},
+					{
+						"QuestionCaption" : "Fill In The Missing Numbers",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							" "
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [ ]
+					},
+					{
+						"QuestionCaption" : "Fill In The Missing Numbers",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							" "
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [ ]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					11,
+					12
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Fill In The Missing Numbers",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							" "
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [ ]
+					},
+					{
+						"QuestionCaption" : "Fill In The Missing Numbers",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							" "
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [ ]
+					},
+					{
+						"QuestionCaption" : "Fill In The Missing Numbers",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							" "
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [ ]
+					},
+					{
+						"QuestionCaption" : "Fill In The Missing Numbers",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							" "
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [ ]
+					},
+					{
+						"QuestionCaption" : "Fill In The Missing Numbers",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							" "
+						],
+						"Options" : [
+							""
+						],
+						"Answer" : [ ]
+					}
+				]
+			}
+		]
+	},
+	{
+		"_id" : ObjectId("6304e8800988196b379bb9e4"),
+		"Category" : "Maths",
+		"Type" : "Shapes",
+		"GradewiseDataSet" : [
+			{
+				"Grade" : [
+					1,
+					2
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Identify The Shapes",
+						"InputType" : "Image",
+						"OutputType" : "Options",
+						"Question" : [
+							"M-1-1.png"
+						],
+						"Options" : [
+							"Square",
+							"Rectangle",
+							"Triangle"
+						],
+						"Answer" : [
+							"Square"
+						]
+					},
+					{
+						"QuestionCaption" : "Identify The Shapes",
+						"InputType" : "Image",
+						"OutputType" : "Options",
+						"Question" : [
+							"M-1-2.jpg"
+						],
+						"Options" : [
+							"Square",
+							"Rectangle",
+							"Triangle"
+						],
+						"Answer" : [
+							"Rectangle"
+						]
+					},
+					{
+						"QuestionCaption" : "Identify The Shapes",
+						"InputType" : "Image",
+						"OutputType" : "Options",
+						"Question" : [
+							"M-1-3.png"
+						],
+						"Options" : [
+							"Square",
+							"Rectangle",
+							"Triangle"
+						],
+						"Answer" : [
+							"Triangle"
+						]
+					},
+					{
+						"QuestionCaption" : "Identify The Shapes",
+						"InputType" : "Image",
+						"OutputType" : "Options",
+						"Question" : [
+							"M-1-4.jpeg"
+						],
+						"Options" : [
+							"Rectangle",
+							"Circle",
+							"Oval"
+						],
+						"Answer" : [
+							"Circle"
+						]
+					},
+					{
+						"QuestionCaption" : "Identify The Shapes",
+						"InputType" : "Image",
+						"OutputType" : "Options",
+						"Question" : [
+							"M-1-5.png"
+						],
+						"Options" : [
+							"Rectangle",
+							"Circle",
+							"Oval"
+						],
+						"Answer" : [
+							"Oval"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					3,
+					4
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Identify The Shapes",
+						"InputType" : "Image",
+						"OutputType" : "Options",
+						"Question" : [
+							"M-2-1.jpg"
+						],
+						"Options" : [
+							"Circle",
+							"Cylinder",
+							"Oval"
+						],
+						"Answer" : [
+							"Cylinder"
+						]
+					},
+					{
+						"QuestionCaption" : "Identify The Shapes",
+						"InputType" : "Image",
+						"OutputType" : "Options",
+						"Question" : [
+							"M-2-2.jpeg"
+						],
+						"Options" : [
+							"Circle",
+							"Cone",
+							"Cylinder"
+						],
+						"Answer" : [
+							"Cone"
+						]
+					},
+					{
+						"QuestionCaption" : "Identify The Shapes",
+						"InputType" : "Image",
+						"OutputType" : "Options",
+						"Question" : [
+							"M-2-3.jpeg"
+						],
+						"Options" : [
+							"Circle",
+							"Sphere",
+							"Oval"
+						],
+						"Answer" : [
+							"Sphere"
+						]
+					},
+					{
+						"QuestionCaption" : "Identify The Shapes",
+						"InputType" : "Image",
+						"OutputType" : "Options",
+						"Question" : [
+							"M-2-4.png"
+						],
+						"Options" : [
+							"Circle",
+							"Rectangle",
+							"Star"
+						],
+						"Answer" : [
+							"Star"
+						]
+					},
+					{
+						"QuestionCaption" : "Identify The Shapes",
+						"InputType" : "Image",
+						"OutputType" : "Options",
+						"Question" : [
+							"M-2-5.png"
+						],
+						"Options" : [
+							"Ellipse",
+							"Oval",
+							"Circle"
+						],
+						"Answer" : [
+							"Ellipse"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					5,
+					6
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Identify The Shapes",
+						"InputType" : "Image",
+						"OutputType" : "Options",
+						"Question" : [
+							"M-3-1.jpeg"
+						],
+						"Options" : [
+							"Pentagon",
+							"Hexagon",
+							"Octagon"
+						],
+						"Answer" : [
+							"Hexagon"
+						]
+					},
+					{
+						"QuestionCaption" : "Identify The Shapes",
+						"InputType" : "Image",
+						"OutputType" : "Options",
+						"Question" : [
+							"M-3-2.jpeg"
+						],
+						"Options" : [
+							"Pentagon",
+							"Hexagon",
+							"Octagon"
+						],
+						"Answer" : [
+							"Pentagon"
+						]
+					},
+					{
+						"QuestionCaption" : "Identify The Shapes",
+						"InputType" : "Image",
+						"OutputType" : "Options",
+						"Question" : [
+							"M-3-3.png"
+						],
+						"Options" : [
+							"Pentagon",
+							"Hexagon",
+							"Parallelogram"
+						],
+						"Answer" : [
+							"Parallelogram"
+						]
+					},
+					{
+						"QuestionCaption" : "Identify The Shapes",
+						"InputType" : "Image",
+						"OutputType" : "Options",
+						"Question" : [
+							"M-3-4.jpg"
+						],
+						"Options" : [
+							"Rhombus",
+							"Parallelogram",
+							"Square"
+						],
+						"Answer" : [
+							"Rhombus"
+						]
+					},
+					{
+						"QuestionCaption" : "Identify The Shapes",
+						"InputType" : "Image",
+						"OutputType" : "Options",
+						"Question" : [
+							"M-3-5.jpeg"
+						],
+						"Options" : [
+							"Cuboid",
+							"Cube",
+							"Rectangle"
+						],
+						"Answer" : [
+							"Cube"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					7,
+					8
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Identify The Shapes",
+						"InputType" : "Image",
+						"OutputType" : "Options",
+						"Question" : [
+							"M-4-1.jpeg"
+						],
+						"Options" : [
+							"Cube",
+							"Cuboid",
+							"Cone"
+						],
+						"Answer" : [
+							"Cuboid"
+						]
+					},
+					{
+						"QuestionCaption" : "Identify The Shapes",
+						"InputType" : "Image",
+						"OutputType" : "Options",
+						"Question" : [
+							"M-4-2.jpg"
+						],
+						"Options" : [
+							"Diamond",
+							"Pentagon",
+							"Hexagon"
+						],
+						"Answer" : [
+							"Diamond"
+						]
+					},
+					{
+						"QuestionCaption" : "Identify The Shapes",
+						"InputType" : "Image",
+						"OutputType" : "Options",
+						"Question" : [
+							"M-4-3.jpeg"
+						],
+						"Options" : [
+							"Hexagon",
+							"Heart",
+							"Oval"
+						],
+						"Answer" : [
+							"Heart"
+						]
+					},
+					{
+						"QuestionCaption" : "Identify The Shapes",
+						"InputType" : "Image",
+						"OutputType" : "Options",
+						"Question" : [
+							"M-4-4.png"
+						],
+						"Options" : [
+							"Infinity",
+							"Diamond",
+							"Cuboid"
+						],
+						"Answer" : [
+							"Infinity"
+						]
+					},
+					{
+						"QuestionCaption" : "Identify The Shapes",
+						"InputType" : "Image",
+						"OutputType" : "Options",
+						"Question" : [
+							"M-4-5.png"
+						],
+						"Options" : [
+							"Diamond",
+							"Heart",
+							"Spade"
+						],
+						"Answer" : [
+							"Spade"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					9,
+					10
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Identify The Shapes",
+						"InputType" : "Image",
+						"OutputType" : "Options",
+						"Question" : [
+							"M-5-1.jpeg"
+						],
+						"Options" : [
+							"Male Symbol",
+							"Female Symbol",
+							"Transgender Symbol"
+						],
+						"Answer" : [
+							"Male Symbol"
+						]
+					},
+					{
+						"QuestionCaption" : "Identify The Shapes",
+						"InputType" : "Image",
+						"OutputType" : "Options",
+						"Question" : [
+							"M-5-2.jpeg"
+						],
+						"Options" : [
+							"Male Symbol",
+							"Female Symbol",
+							"Transgender Symbol"
+						],
+						"Answer" : [
+							"Female Symbol"
+						]
+					},
+					{
+						"QuestionCaption" : "Identify The Shapes",
+						"InputType" : "Image",
+						"OutputType" : "Options",
+						"Question" : [
+							"M-5-3.png"
+						],
+						"Options" : [
+							"Thumbsup",
+							"Theta",
+							"Circle"
+						],
+						"Answer" : [
+							"Thumbsup"
+						]
+					},
+					{
+						"QuestionCaption" : "Identify The Shapes",
+						"InputType" : "Image",
+						"OutputType" : "Options",
+						"Question" : [
+							"M-5-4.png"
+						],
+						"Options" : [
+							"Triangle",
+							"Inverted Triangle",
+							"Hexagon"
+						],
+						"Answer" : [
+							"Inverted Triangle"
+						]
+					},
+					{
+						"QuestionCaption" : "Identify The Shapes",
+						"InputType" : "Image",
+						"OutputType" : "Options",
+						"Question" : [
+							"M-5-5.png"
+						],
+						"Options" : [
+							"3'o clock",
+							"7'o clock",
+							"8'o clock"
+						],
+						"Answer" : [
+							"3'o clock"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					11,
+					12
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Identify The Shapes",
+						"InputType" : "Image",
+						"OutputType" : "Options",
+						"Question" : [
+							"M-6-1.png"
+						],
+						"Options" : [
+							"Theta",
+							"Pi",
+							"Infinity"
+						],
+						"Answer" : [
+							"Theta"
+						]
+					},
+					{
+						"QuestionCaption" : "Identify The Shapes",
+						"InputType" : "Image",
+						"OutputType" : "Options",
+						"Question" : [
+							"M-6-2.png"
+						],
+						"Options" : [
+							"Theta",
+							"Pi",
+							"Infinity"
+						],
+						"Answer" : [
+							"Pi"
+						]
+					},
+					{
+						"QuestionCaption" : "Identify The Shapes",
+						"InputType" : "Image",
+						"OutputType" : "Options",
+						"Question" : [
+							"M-6-3.jpeg"
+						],
+						"Options" : [
+							"Male Symbol",
+							"Female Symbol",
+							"Transgender Symbol"
+						],
+						"Answer" : [
+							"Transgender Symbol"
+						]
+					},
+					{
+						"QuestionCaption" : "Identify The Shapes",
+						"InputType" : "Image",
+						"OutputType" : "Options",
+						"Question" : [
+							"M-6-4.png"
+						],
+						"Options" : [
+							"11'o clock",
+							"3'o clock",
+							"9'o clock"
+						],
+						"Answer" : [
+							"11'o clock"
+						]
+					},
+					{
+						"QuestionCaption" : "Identify The Shapes",
+						"InputType" : "Image",
+						"OutputType" : "Options",
+						"Question" : [
+							"M-6-5.jpeg"
+						],
+						"Options" : [
+							"Heart",
+							"Diamond",
+							"Clover"
+						],
+						"Answer" : [
+							"Clover"
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"_id" : ObjectId("6304e8800988196b379bb9e5"),
+		"Category" : "Maths",
+		"Type" : "Symbols",
+		"GradewiseDataSet" : [
+			{
+				"Grade" : [
+					1,
+					2
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Choose The Appropriate Symbol",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"3 __ 5 "
+						],
+						"Options" : [
+							"<",
+							">",
+							"="
+						],
+						"Answer" : [
+							"<"
+						]
+					},
+					{
+						"QuestionCaption" : "Choose The Appropriate Symbol",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"12 __ 10"
+						],
+						"Options" : [
+							"<",
+							">",
+							"="
+						],
+						"Answer" : [
+							">"
+						]
+					},
+					{
+						"QuestionCaption" : "Choose The Appropriate Symbol",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"5 __ 10"
+						],
+						"Options" : [
+							"<",
+							">",
+							"="
+						],
+						"Answer" : [
+							"<"
+						]
+					},
+					{
+						"QuestionCaption" : "Choose The Appropriate Symbol",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"21 __ 12"
+						],
+						"Options" : [
+							"<",
+							">",
+							"="
+						],
+						"Answer" : [
+							">"
+						]
+					},
+					{
+						"QuestionCaption" : "Choose The Appropriate Symbol",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"58 __ 58"
+						],
+						"Options" : [
+							"<",
+							">",
+							"="
+						],
+						"Answer" : [
+							"="
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					3,
+					4
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Choose The Appropriate Symbol",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"523 __ 541 "
+						],
+						"Options" : [
+							"<",
+							">",
+							"="
+						],
+						"Answer" : [
+							"<"
+						]
+					},
+					{
+						"QuestionCaption" : "Choose The Appropriate Symbol",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"111 __ 111"
+						],
+						"Options" : [
+							"<",
+							">",
+							"="
+						],
+						"Answer" : [
+							"="
+						]
+					},
+					{
+						"QuestionCaption" : "Choose The Appropriate Symbol",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"710 __ 170"
+						],
+						"Options" : [
+							"<",
+							">",
+							"="
+						],
+						"Answer" : [
+							"<"
+						]
+					},
+					{
+						"QuestionCaption" : "Choose The Appropriate Symbol",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"525 __ 252"
+						],
+						"Options" : [
+							"<",
+							">",
+							"="
+						],
+						"Answer" : [
+							">"
+						]
+					},
+					{
+						"QuestionCaption" : "Choose The Appropriate Symbol",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"412 __ 124 "
+						],
+						"Options" : [
+							"<",
+							">",
+							"="
+						],
+						"Answer" : [
+							">"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					5,
+					6
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Choose The Appropriate Symbol",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"1200 __ 2521"
+						],
+						"Options" : [
+							"<",
+							">",
+							"="
+						],
+						"Answer" : [
+							"<"
+						]
+					},
+					{
+						"QuestionCaption" : "Choose The Appropriate Symbol",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							" 2014 __ 2017"
+						],
+						"Options" : [
+							"<",
+							">",
+							"="
+						],
+						"Answer" : [
+							"<"
+						]
+					},
+					{
+						"QuestionCaption" : "Choose The Appropriate Symbol",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"8598 __ 8958"
+						],
+						"Options" : [
+							"<",
+							">",
+							"="
+						],
+						"Answer" : [
+							"<"
+						]
+					},
+					{
+						"QuestionCaption" : "Choose The Appropriate Symbol",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"581 __ 851"
+						],
+						"Options" : [
+							"<",
+							">",
+							"="
+						],
+						"Answer" : [
+							"<"
+						]
+					},
+					{
+						"QuestionCaption" : "Choose The Appropriate Symbol",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"777 __ 777"
+						],
+						"Options" : [
+							"<",
+							">",
+							"="
+						],
+						"Answer" : [
+							"="
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					7,
+					8
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Choose The Appropriate Symbol",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"145 __ 69 = 214"
+						],
+						"Options" : [
+							"+",
+							"-",
+							"*",
+							"/"
+						],
+						"Answer" : [
+							"+"
+						]
+					},
+					{
+						"QuestionCaption" : "Choose The Appropriate Symbol",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"777 __ 2 = 1554"
+						],
+						"Options" : [
+							"+",
+							"-",
+							"*",
+							"/"
+						],
+						"Answer" : [
+							"*"
+						]
+					},
+					{
+						"QuestionCaption" : "Choose The Appropriate Symbol",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							" 62 __ 203 = -141"
+						],
+						"Options" : [
+							"+",
+							"-",
+							"*",
+							"/"
+						],
+						"Answer" : [
+							"-"
+						]
+					},
+					{
+						"QuestionCaption" : "Choose The Appropriate Symbol",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"5800 __ 100 = 58"
+						],
+						"Options" : [
+							"+",
+							"-",
+							"*",
+							"/"
+						],
+						"Answer" : [
+							"/"
+						]
+					},
+					{
+						"QuestionCaption" : "Choose The Appropriate Symbol",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"1203 __ 3201 = 4404 "
+						],
+						"Options" : [
+							"+",
+							"-",
+							"*",
+							"/"
+						],
+						"Answer" : [
+							"+"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					9,
+					10
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Choose The Appropriate Symbol",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							" 5632 __ 3 = 16896"
+						],
+						"Options" : [
+							"+",
+							"-",
+							"*",
+							"/"
+						],
+						"Answer" : [
+							"*"
+						]
+					},
+					{
+						"QuestionCaption" : "Choose The Appropriate Symbol",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							" 63210 __ 6300 = 56910"
+						],
+						"Options" : [
+							"+",
+							"-",
+							"*",
+							"/"
+						],
+						"Answer" : [
+							"-"
+						]
+					},
+					{
+						"QuestionCaption" : "Choose The Appropriate Symbol",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							" 745200 __ 36 = 26827200"
+						],
+						"Options" : [
+							"+",
+							"-",
+							"*",
+							"/"
+						],
+						"Answer" : [
+							"*"
+						]
+					},
+					{
+						"QuestionCaption" : "Choose The Appropriate Symbol",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"5260 __ 7856 = -2596 "
+						],
+						"Options" : [
+							"+",
+							"-",
+							"*",
+							"/"
+						],
+						"Answer" : [
+							"-"
+						]
+					},
+					{
+						"QuestionCaption" : "Choose The Appropriate Symbol",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"5633 __ 25 = 225.32"
+						],
+						"Options" : [
+							"+",
+							"-",
+							"*",
+							"/"
+						],
+						"Answer" : [
+							"/"
+						]
+					}
+				]
+			},
+			{
+				"Grade" : [
+					11,
+					12
+				],
+				"DataSet" : [
+					{
+						"QuestionCaption" : "Choose The Appropriate Symbol",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							" 25.36 __ 136.30 = 161.66"
+						],
+						"Options" : [
+							"+",
+							"-",
+							"*",
+							"/"
+						],
+						"Answer" : [
+							"+"
+						]
+					},
+					{
+						"QuestionCaption" : "Choose The Appropriate Symbol",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"12546 __ 61 = 765306"
+						],
+						"Options" : [
+							"+",
+							"-",
+							"*",
+							"/"
+						],
+						"Answer" : [
+							"*"
+						]
+					},
+					{
+						"QuestionCaption" : "Choose The Appropriate Symbol",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							" 1597 __ 20 = 79.85"
+						],
+						"Options" : [
+							"+",
+							"-",
+							"*",
+							"/"
+						],
+						"Answer" : [
+							"/"
+						]
+					},
+					{
+						"QuestionCaption" : "Choose The Appropriate Symbol",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							"2564 __ 54 = 2510"
+						],
+						"Options" : [
+							"+",
+							"-",
+							"*",
+							"/"
+						],
+						"Answer" : [
+							"-"
+						]
+					},
+					{
+						"QuestionCaption" : "Choose The Appropriate Symbol",
+						"InputType" : "Text",
+						"OutputType" : "Options",
+						"Question" : [
+							" 84256 __ 2 = 168512"
+						],
+						"Options" : [
+							"+",
+							"-",
+							"*",
+							"/"
+						],
+						"Answer" : [
+							"*"
+						]
+					}
+				]
+			}
+		]
+	}
+]

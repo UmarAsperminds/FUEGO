@@ -1,0 +1,34 @@
+var mongoose = require("mongoose")
+var ChildDetails=mongoose.Schema({
+    ChildName:{
+        type:String,required:true
+    },
+    DateOfBirth:{
+        type:String,required:true
+    },
+    Gender:{
+        type:String,required:true
+    },
+    Grade:{
+        type:Number,required:true
+    },
+    ParentDetails:{
+        type:Object,required:true
+    },
+    OtherLanguage:{
+        type:Object
+    },
+    Handedness:{
+        type:String
+    },
+    Gestation:{
+        type:String
+    },
+    MedicalHistory:{
+        type:[String]
+    },
+    FamilyHistory:{
+        type:[String]
+    }
+})
+module.exports=mongoose.model('ChildDetails',ChildDetails,'ChildDetails')

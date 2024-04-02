@@ -1,0 +1,659 @@
+[
+	{
+	    "_id": ObjectId("6308416006c7b8a6fd6d3e45"),
+	    "Answer": [
+	    {
+	        "Category": "Listening And Understanding",
+	        "Type": "Familiar sounds",
+	        "QuestionSet":
+	        {
+	            "QuestionCaption": "Listen To the Audio And Select The Suitable Option ",
+	            "InputType": "Audio",
+	            "OutputType": "Options",
+	            "Question": ["Clap.mp3"],
+	            "Options": ["G1-2.png", "G1-7.png"],
+	            "Answer": ["G1-2.png"]
+	        },
+	        "Score": "1",
+	        "UserAnswer": "G1-2.png",
+	        "Time": "26"
+	    },
+	    {
+	        "Category": "Reading",
+	        "Type": "Pronounce",
+	        "QuestionSet":
+	        {
+	            "QuestionCaption": "Read the Words",
+	            "InputType": "Text",
+	            "OutputType": "Audio",
+	            "Question": ["Road"],
+	            "Answer": ["Road"]
+	        },
+	        "Score": "1",
+	        "UserAnswer": "Road",
+	        "Time": "15"
+	    },
+	    {
+	        "Category": "Listening And Understanding",
+	        "Type": "Audio Listening",
+	        "QuestionSet":
+	        {
+	            "QuestionCaption": "Listen To The Audio And Choose The Suitable Option",
+	            "InputType": "Audio",
+	            "OutputType": "Options",
+	            "Question": ["Dog"],
+	            "Options": ["G1-1.png", "G1-6.png"],
+	            "Answer": ["G1-1.png"]
+	        },
+	        "Score": "1",
+	        "UserAnswer": "G1-1.png",
+	        "Time": "28"
+	    },
+	    {
+	        "Category": "Listening And Understanding",
+	        "Type": "Audio Listening",
+	        "QuestionSet":
+	        {
+	            "QuestionCaption": "Listen To The Audio And Choose The Suitable Option",
+	            "InputType": "Audio",
+	            "OutputType": "Options",
+	            "Question": ["Dog"],
+	            "Options": ["G1-1.png", "G1-6.png"],
+	            "Answer": ["G1-1.png"]
+	        },
+	        "Score": "1",
+	        "UserAnswer": "G1-1.png",
+	        "Time": "28"
+	    },
+	    {
+	        "Category": "Reading",
+	        "Type": "Sentence",
+	        "QuestionSet":
+	        {
+	            "QuestionCaption": "Read the Sentence",
+	            "InputType": "Text",
+	            "OutputType": "Audio",
+	            "Question": ["Brush your teeth two times a day"],
+	            "Answer": ["Brush your teeth two times a day"]
+	        },
+	        "Score": "1",
+	        "UserAnswer": "brush your teeth two times a day",
+	        "Time": "22"
+	    },
+	    {
+	        "Category": "Maths",
+	        "Type": "Shapes",
+	        "QuestionSet":
+	        {
+	            "QuestionCaption": "Identify The Shapes",
+	            "InputType": "Image",
+	            "OutputType": "Options",
+	            "Question": ["M-1-4.jpeg"],
+	            "Options": ["Rectangle", "Oval", "Circle"],
+	            "Answer": ["Circle"]
+	        },
+	        "Score": "1",
+	        "UserAnswer": "Circle",
+	        "Time": "26"
+	    },
+	    {
+	        "Category": "Maths",
+	        "Type": "Symbols",
+	        "QuestionSet":
+	        {
+	            "QuestionCaption": "Choose The Appropriate Symbol",
+	            "InputType": "Text",
+	            "OutputType": "Options",
+	            "Question": ["58 __ 58"],
+	            "Options": ["=", "<", ">"],
+	            "Answer": ["="]
+	        },
+	        "Score": "1",
+	        "UserAnswer": "=",
+	        "Time": "27"
+	    },
+	    {
+	        "Category": "Problem Solving",
+	        "Type": "Sequence Problem",
+	        "QuestionSet":
+	        {
+	            "QuestionCaption": "Sequence the Images in Order",
+	            "InputType": "Image",
+	            "OutputType": "Order",
+	            "Question": ["Q5-3.png", "Q5-1.png", "Q5-2.png"],
+	            "Answer": ["Q5-1.png", "Q5-2.png", "Q5-3.png"]
+	        },
+	        "Score": "1",
+	        "UserAnswer": "",
+	        "Time": "20"
+	    },
+	    {
+	        "Category": "Reading",
+	        "Type": "ImageReading",
+	        "QuestionSet":
+	        {
+	            "QuestionCaption": "Tell the Image Name",
+	            "InputType": "Image",
+	            "OutputType": "Audio",
+	            "Question": ["R-1-6.png"],
+	            "Answer": ["Rose"]
+	        },
+	        "Score": "1",
+	        "UserAnswer": "Rose",
+	        "Time": "24"
+	    },
+	    {
+	        "Category": "Reading",
+	        "Type": "ImageReading",
+	        "QuestionSet":
+	        {
+	            "QuestionCaption": "Tell the Image Name",
+	            "InputType": "Image",
+	            "OutputType": "Audio",
+	            "Question": ["R-1-6.png"],
+	            "Answer": ["Rose"]
+	        },
+	        "Score": "1",
+	        "UserAnswer": "Rose",
+	        "Time": "24"
+	    },
+	    {
+	        "Category": "Listening And Understanding",
+	        "Type": "Audio Comprehension",
+	        "QuestionSet":
+	        {
+	            "QuestionCaption": "___Birthday ",
+	            "InputType": "Audio",
+	            "OutputType": "Options",
+	            "Question": ["Happy Birthday"],
+	            "Options": ["Apple", "Copy", "Happy"],
+	            "Answer": ["Happy "]
+	        },
+	        "Score": "1",
+	        "UserAnswer": "Happy",
+	        "Time": "25"
+	    },
+	    {
+	        "Category": "Listening And Understanding",
+	        "Type": "Same Or Different",
+	        "QuestionSet":
+	        {
+	            "QuestionCaption": "Identify The Sound As Same Or Different ",
+	            "InputType": "Audio",
+	            "OutputType": "Options",
+	            "Question": ["Cat-Cat "],
+	            "Options": ["Same", "Different"],
+	            "Answer": ["Same"]
+	        },
+	        "Score": "1",
+	        "UserAnswer": "Same",
+	        "Time": "19"
+	    },
+	    {
+	        "Category": "Listening And Understanding",
+	        "Type": "Same Or Different",
+	        "QuestionSet":
+	        {
+	            "QuestionCaption": "Identify The Sound As Same Or Different ",
+	            "InputType": "Audio",
+	            "OutputType": "Options",
+	            "Question": ["Cat-Cat "],
+	            "Options": ["Same", "Different"],
+	            "Answer": ["Same"]
+	        },
+	        "Score": "1",
+	        "UserAnswer": "Same",
+	        "Time": "19"
+	    },
+	    {
+	        "Category": "Maths",
+	        "Type": "NormalCalculations",
+	        "QuestionSet":
+	        {
+	            "QuestionCaption": "Division",
+	            "InputType": "Text",
+	            "OutputType": "Options",
+	            "Question": ["10 / 2 = __"],
+	            "Options": ["4", "1", "5", "6"],
+	            "Answer": ["5"]
+	        },
+	        "Score": "1",
+	        "UserAnswer": "5",
+	        "Time": "26"
+	    },
+	    {
+	        "Category": "Listening And Understanding",
+	        "Type": "Same Or Different",
+	        "QuestionSet":
+	        {
+	            "QuestionCaption": "Identify The Sound As Same Or Different ",
+	            "InputType": "Audio",
+	            "OutputType": "Options",
+	            "Question": ["Ship-Skip"],
+	            "Options": ["Different", "Same"],
+	            "Answer": ["Different"]
+	        },
+	        "Score": "1",
+	        "UserAnswer": "Different",
+	        "Time": "24"
+	    },
+	    {
+	        "Category": "Reading",
+	        "Type": "Spelling",
+	        "QuestionSet":
+	        {
+	            "QuestionCaption": "",
+	            "InputType": "Text",
+	            "OutputType": "Button",
+	            "Question": ["What is the color of the sky?"],
+	            "Answer": ["BLUE"]
+	        },
+	        "Score": "1",
+	        "UserAnswer": "BLUE",
+	        "Time": "25"
+	    },
+	    {
+	        "Category": "Problem Solving",
+	        "Type": "Maze",
+	        "Score": "1",
+	        "UserAnswer": "true",
+	        "Time": "24"
+	    },
+	    {
+	        "Category": "Listening And Understanding",
+	        "Type": "Riddles",
+	        "QuestionSet":
+	        {
+	            "QuestionCaption": "Read The Question And Select The Suitable Option",
+	            "InputType": "Text",
+	            "OutputType": "Options",
+	            "Question": ["I  fly in sky; I am not a bird; I have wings"],
+	            "Options": ["Q2-3.png", "Q2-1.png", "Q2-2.png"],
+	            "Answer": ["Q2-1.png"]
+	        },
+	        "Score": "1",
+	        "UserAnswer": "Q2-1.png",
+	        "Time": "25"
+	    },
+	    {
+	        "Category": "Maths",
+	        "Type": "MissingNumbers",
+	        "QuestionSet":
+	        {
+	            "QuestionCaption": "Fill In The Missing Numbers",
+	            "InputType": "Text",
+	            "OutputType": "Options",
+	            "Question": ["14, 15, 16, __, 18 "],
+	            "Options": ["15", "16,", "18", "17"],
+	            "Answer": ["17"]
+	        },
+	        "Score": "1",
+	        "UserAnswer": "17",
+	        "Time": "27"
+	    }],
+	    "ChildDetails":
+	    {
+	        "_id": "63076ead1ed6e841d08a1ef1",
+	        "ChildName": "SUDHARSAN",
+	        "DateOfBirth": "1999-01-01",
+	        "Gender": "Male",
+	        "Grade": "2",
+	        "ParentDetails":
+	        {
+	            "_id": "6307012e67195a52658bba9c",
+	            "FatherName": "Umar Farook S",
+	            "MotherName": "Someone in Future",
+	            "Email": "umar@mohsha.com",
+	            "MobileNumber": "8072622414",
+	            "MotherTongue": "Tamil",
+	            "OtherLanguage": ["English", "Hindi", "Tamil", "Malayalam"]
+	        },
+	        "OtherLanguage": ["English", "Hindi", "Tamil"],
+	        "Handedness": "Right",
+	        "Gestation": "Singleton",
+	        "MedicalHistory": ["Hearing Loss (Minimal)"],
+	        "FamilyHistory": ["Parents had academic difficulty"],
+	        "__v": "0"
+	    },
+	    "ParentDetails":
+	    {
+	        "_id": "6307012e67195a52658bba9c",
+	        "FatherName": "Umar Farook S",
+	        "MotherName": "Someone in Future",
+	        "Email": "umar@mohsha.com",
+	        "MobileNumber": "8072622414",
+	        "MotherTongue": "Tamil",
+	        "OtherLanguage": ["English", "Hindi", "Tamil", "Malayalam"]
+	    },
+	    "__v": 0
+	},
+	{
+	    "_id": ObjectId("630842915d6a8c18f648b81d"),
+	    "Answer": [
+	    {
+	        "Category": "Reading",
+	        "Type": "Pronounce",
+	        "QuestionSet":
+	        {
+	            "QuestionCaption": "Read the Words",
+	            "InputType": "Text",
+	            "OutputType": "Audio",
+	            "Question": ["Road"],
+	            "Answer": ["Road"]
+	        },
+	        "Score": "1",
+	        "UserAnswer": "Road",
+	        "Time": "13"
+	    },
+	    {
+	        "Category": "Listening And Understanding",
+	        "Type": "Familiar sounds",
+	        "QuestionSet":
+	        {
+	            "QuestionCaption": "Listen To the Audio And Select The Suitable Option ",
+	            "InputType": "Audio",
+	            "OutputType": "Options",
+	            "Question": ["Bell.mp3"],
+	            "Options": ["G1-6.png", "G1-1.png"],
+	            "Answer": ["G1-1.png"]
+	        },
+	        "Score": "1",
+	        "UserAnswer": "G1-1.png",
+	        "Time": "28"
+	    },
+	    {
+	        "Category": "Maths",
+	        "Type": "MissingNumbers",
+	        "QuestionSet":
+	        {
+	            "QuestionCaption": "Fill In The Missing Numbers",
+	            "InputType": "Text",
+	            "OutputType": "Options",
+	            "Question": ["40, __, 42, 43, 44 "],
+	            "Options": ["42", "40", "41", "40"],
+	            "Answer": ["41"]
+	        },
+	        "Score": "1",
+	        "UserAnswer": "41",
+	        "Time": "27"
+	    },
+	    {
+	        "Category": "Listening And Understanding",
+	        "Type": "Riddles",
+	        "QuestionSet":
+	        {
+	            "QuestionCaption": "Read The Question And Select The Suitable Option",
+	            "InputType": "Text",
+	            "OutputType": "Options",
+	            "Question": ["You wear me before wearing shoes"],
+	            "Options": ["Q4-3.png", "Q4-2.png", "Q4-1.png"],
+	            "Answer": ["Q4-1.png"]
+	        },
+	        "Score": "-1",
+	        "UserAnswer": "Q4-2.png",
+	        "Time": "24"
+	    },
+	    {
+	        "Category": "Problem Solving",
+	        "Type": "Maze",
+	        "Score": "-1",
+	        "UserAnswer": "false",
+	        "Time": "27"
+	    },
+	    {
+	        "Category": "Maths",
+	        "Type": "NormalCalculations",
+	        "QuestionSet":
+	        {
+	            "QuestionCaption": "Perform Addition Operation",
+	            "InputType": "Text",
+	            "OutputType": "Options",
+	            "Question": ["12 + 2 = __"],
+	            "Options": ["13", "11", "12", "14"],
+	            "Answer": ["14"]
+	        },
+	        "Score": "1",
+	        "UserAnswer": "14",
+	        "Time": "16"
+	    },
+	    {
+	        "Category": "Reading",
+	        "Type": "Spelling",
+	        "QuestionSet":
+	        {
+	            "QuestionCaption": "",
+	            "InputType": "Text",
+	            "OutputType": "Button",
+	            "Question": ["Which Flows on the river?"],
+	            "Answer": ["BOAT"]
+	        },
+	        "Score": "1",
+	        "UserAnswer": "BOAT",
+	        "Time": "25"
+	    },
+	    {
+	        "Category": "Listening And Understanding",
+	        "Type": "Same Or Different",
+	        "QuestionSet":
+	        {
+	            "QuestionCaption": "Identify the Sound As Same Or Different ",
+	            "InputType": "Audio",
+	            "OutputType": "Options",
+	            "Question": ["Air-Are"],
+	            "Options": ["Same", "Different"],
+	            "Answer": ["Different"]
+	        },
+	        "Score": "1",
+	        "UserAnswer": "Different",
+	        "Time": "25"
+	    },
+	    {
+	        "Category": "Reading",
+	        "Type": "ImageReading",
+	        "QuestionSet":
+	        {
+	            "QuestionCaption": "Tell the Image Name",
+	            "InputType": "Image",
+	            "OutputType": "Audio",
+	            "Question": ["R-2-6.jpg"],
+	            "Answer": ["House"]
+	        },
+	        "Score": "1",
+	        "UserAnswer": "house",
+	        "Time": "10"
+	    },
+	    {
+	        "Category": "Writing",
+	        "Type": "TextToImage",
+	        "QuestionSet":
+	        {
+	            "QuestionCaption": "See the Text and Wtite ",
+	            "InputType": "Text",
+	            "OutputType": "Image",
+	            "Question": ["Divulge"],
+	            "Options": [""],
+	            "Answer": ["Divulge"]
+	        },
+	        "Score": "0",
+	        "UserAnswer": "",
+	        "Time": "30"
+	    },
+	    {
+	        "Category": "Maths",
+	        "Type": "Symbols",
+	        "QuestionSet":
+	        {
+	            "QuestionCaption": "Choose The Appropriate Symbol",
+	            "InputType": "Text",
+	            "OutputType": "Options",
+	            "Question": ["5 __ 10"],
+	            "Options": [">", "=", "<"],
+	            "Answer": ["<"]
+	        },
+	        "Score": "1",
+	        "UserAnswer": "<",
+	        "Time": "27"
+	    },
+	    {
+	        "Category": "Maths",
+	        "Type": "Symbols",
+	        "QuestionSet":
+	        {
+	            "QuestionCaption": "Choose The Appropriate Symbol",
+	            "InputType": "Text",
+	            "OutputType": "Options",
+	            "Question": ["5 __ 10"],
+	            "Options": [">", "=", "<"],
+	            "Answer": ["<"]
+	        },
+	        "Score": "1",
+	        "UserAnswer": "<",
+	        "Time": "27"
+	    },
+	    {
+	        "Category": "Listening And Understanding",
+	        "Type": "Audio Comprehension",
+	        "QuestionSet":
+	        {
+	            "QuestionCaption": "My dad is my ____ hero",
+	            "InputType": "Audio",
+	            "OutputType": "Options",
+	            "Question": ["My dad is my super hero"],
+	            "Options": ["Summer", "Super", "supper"],
+	            "Answer": ["Super"]
+	        },
+	        "Score": "1",
+	        "UserAnswer": "Super",
+	        "Time": "28"
+	    },
+	    {
+	        "Category": "Problem Solving",
+	        "Type": "Sequence Problem",
+	        "QuestionSet":
+	        {
+	            "QuestionCaption": "Sequence the Images in Order",
+	            "InputType": "Image",
+	            "OutputType": "Order",
+	            "Question": ["Q2-1.png", "Q2-3.png", "Q2-2.png"],
+	            "Answer": ["Q2-1.png", "Q2-2.png", "Q2-3.png"]
+	        },
+	        "Score": "1",
+	        "UserAnswer": "",
+	        "Time": "25"
+	    },
+	    {
+	        "Category": "Listening And Understanding",
+	        "Type": "Same Or Different",
+	        "QuestionSet":
+	        {
+	            "QuestionCaption": "Identify The Sound As Same Or Different ",
+	            "InputType": "Audio",
+	            "OutputType": "Options",
+	            "Question": ["plan-Plain"],
+	            "Options": ["Same", "Different"],
+	            "Answer": ["Different"]
+	        },
+	        "Score": "-1",
+	        "UserAnswer": "Same",
+	        "Time": "23"
+	    },
+	    {
+	        "Category": "Reading",
+	        "Type": "Sentence",
+	        "QuestionSet":
+	        {
+	            "QuestionCaption": "Read the Sentence",
+	            "InputType": "Text",
+	            "OutputType": "Audio",
+	            "Question": ["Obey your elders"],
+	            "Answer": ["Obey your elders"]
+	        },
+	        "Score": "-1",
+	        "UserAnswer": "house",
+	        "Time": "26"
+	    },
+	    {
+	        "Category": "Maths",
+	        "Type": "Shapes",
+	        "QuestionSet":
+	        {
+	            "QuestionCaption": "Identify The Shapes",
+	            "InputType": "Image",
+	            "OutputType": "Options",
+	            "Question": ["M-1-1.png"],
+	            "Options": ["Triangle", "Square", "Rectangle"],
+	            "Answer": ["Square"]
+	        },
+	        "Score": "-1",
+	        "UserAnswer": "Rectangle",
+	        "Time": "23"
+	    },
+	    {
+	        "Category": "Listening And Understanding",
+	        "Type": "Audio Listening",
+	        "QuestionSet":
+	        {
+	            "QuestionCaption": "Listen To The Audio And Choose The Suitable Option",
+	            "InputType": "Audio",
+	            "OutputType": "Options",
+	            "Question": ["Ball"],
+	            "Options": ["G1-3.png", "G1-8.png"],
+	            "Answer": ["G1-3.png"]
+	        },
+	        "Score": "-1",
+	        "UserAnswer": "G1-8.png",
+	        "Time": "27"
+	    },
+	    {
+	        "Category": "Writing",
+	        "Type": "AudioToImage",
+	        "QuestionSet":
+	        {
+	            "QuestionCaption": "Listen to the Audio and Write ",
+	            "InputType": "Audio",
+	            "OutputType": "Image",
+	            "Question": ["Run"],
+	            "Options": [""],
+	            "Answer": ["Run"]
+	        },
+	        "Score": "0",
+	        "UserAnswer": "",
+	        "Time": "28"
+	    }],
+	    "ChildDetails":
+	    {
+	        "_id": "63076ead1ed6e841d08a1ef1",
+	        "ChildName": "SUDHARSAN",
+	        "DateOfBirth": "1999-01-01",
+	        "Gender": "Male",
+	        "Grade": "2",
+	        "ParentDetails":
+	        {
+	            "_id": "6307012e67195a52658bba9c",
+	            "FatherName": "Umar Farook S",
+	            "MotherName": "Someone in Future",
+	            "Email": "umar@mohsha.com",
+	            "MobileNumber": "8072622414",
+	            "MotherTongue": "Tamil",
+	            "OtherLanguage": ["English", "Hindi", "Tamil", "Malayalam"]
+	        },
+	        "OtherLanguage": ["English", "Hindi", "Tamil"],
+	        "Handedness": "Right",
+	        "Gestation": "Singleton",
+	        "MedicalHistory": ["Hearing Loss (Minimal)"],
+	        "FamilyHistory": ["Parents had academic difficulty"],
+	        "__v": "0"
+	    },
+	    "ParentDetails":
+	    {
+	        "_id": "6307012e67195a52658bba9c",
+	        "FatherName": "Umar Farook S",
+	        "MotherName": "Someone in Future",
+	        "Email": "umar@mohsha.com",
+	        "MobileNumber": "8072622414",
+	        "MotherTongue": "Tamil",
+	        "OtherLanguage": ["English", "Hindi", "Tamil", "Malayalam"]
+	    },
+	    "__v": 0
+	}
+]
