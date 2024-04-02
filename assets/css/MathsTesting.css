@@ -1,0 +1,45 @@
+.order-words-ul {
+    text-align: center;
+    padding:0
+}
+.order-words-ul li {
+    display: inline;
+    list-style-type: none;
+    margin-right: 30px;
+    font-size: 13pt;
+    cursor: move;
+}
+
+.button {
+    float: left;
+    margin: 0 5px 0 0;
+    width: 100px;
+    height: 40px;
+    position: relative;
+}
+
+.button label,
+.button input {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.button input[type="radio"] {
+    opacity: 0.011;
+    z-index: 100;
+}
+
+.button input[type="radio"]:checked + label {
+    background: black;
+    border-radius: 4px;
+}
+
+.button label {
+    cursor: pointer;
+    z-index: 90;
+    line-height: 1.8em;
+}
